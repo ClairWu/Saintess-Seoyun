@@ -245,6 +245,7 @@ Provisional, and worth revisiting once the route structure is decided.
 | **The cage** | Ch1 Act 2 | The Temple is beautiful, cold, and watched. When does she need to get out? |
 | **The prince** | Ch1 Act 2 | What does she owe someone who loves a role she is playing? |
 | **The duke's return** | Ch2+ | The most noble man in the kingdom comes home from fighting her monsters. |
+| **Irene's refusal** | Ch2+ | Why has she declined the duke? And who else can see what is coming? |
 | **Korea** | Ch2 or 3 | Will the alliance find her, and what happens when they do? |
 | **The reckoning** | Late | Does she ever close the door, and who is left outside it? |
 
@@ -254,6 +255,13 @@ lives in; the **palace** is the only door out of it; and both are staffed by
 people who believe in her. She is most free precisely where she is most
 observed, and most observed precisely where she is least free. That contradiction
 does a lot of work quietly, and it is the setting's version of her character.
+
+**Irene de Closhe is the fourth power in the room.** The crown, the Temple, and
+the duke's line run this kingdom, and all three of them are about to be defined
+by fighting. The Closhe family is the one that supplies and pays for it, which
+means it is the only one that sees the cost coming in the ledgers. She is the
+character who can read the situation from outside the machine, and she is
+already refusing to marry into it.
 
 ---
 

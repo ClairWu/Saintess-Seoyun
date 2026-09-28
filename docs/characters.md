@@ -182,19 +182,87 @@ told.
 
 ---
 
+## Irene de Closhe
+
+**Noblewoman of the Closhe domain. Not the duke's.**
+
+| | |
+|---|---|
+| **Name** | Irene de Closhe |
+| **House** | Closhe |
+| **Role** | Noblewoman; her family runs the **Closhe merchants** |
+| **Reputation** | **Kind and thoughtful** — widely believed |
+| **Standing with the duke** | **His preferred choice of fiancée** |
+| **His proposals** | **She has declined them. Repeatedly. For reasons unknown.** |
+
+She is the woman the kingdom expects the duke to marry, and she will not have
+him. Nobody knows why. That silence is the most interesting thing about her, and
+it is doing at least three jobs at once.
+
+**She is a merchant's daughter in a world run by soldiers and priests.** The
+kingdom's power sits with the crown, the Temple, and the duke's line. Irene
+represents the fourth thing — trade — which is the one that actually pays for
+all of it. A family with money and no swords is a permanent minority position in
+a kingdom that has just met its first monsters and is about to need soldiers
+badly. She is a thoughtful person in a society that is about to become
+militarised, and she has been watching that happen from the merchant side.
+
+**She is kind, and Seoyun is a fraud who needs people to be.** Those two facts
+put Seoyun in a specific kind of trouble. Irene's kindness is the kind that
+notices things — a saintess who is never tired, never off-duty, never seen
+outside the Temple unless the priests bring her. Nobody suspects Seoyun of being
+a monster. Somebody who watches people for a living might notice that the
+saintess is never actually doing what a saintess does.
+
+That is the sharp version, and it does not require Irene to be a rival or an
+enemy. It only requires her to be **observant, kind, and paying attention**,
+which is exactly what she has been described as.
+
+**The unanswered proposal is the real hook.** The obvious reading is that she
+does not love the duke. The more interesting reading is that she has found a
+reason to refuse him that she cannot say — that the coming disaster is visible
+to a merchant who deals in risk and supply, and marrying into a military house at
+that moment looks like a mistake. If Irene can see the wave coming and the duke
+is out fighting it, her refusal stops being coy and starts being a judgement on
+the entire arrangement.
+
+### Open questions
+
+- **Why has she declined him?** Decide this before writing her, because it
+  determines what she is. Boredom, a real attachment elsewhere, political
+  caution, or knowledge she cannot speak are four different characters.
+- **Is she a route?** See below.
+- **Does she know about the portals?** A merchant family hears things. If
+  Closhe trade routes carry reports of monsters appearing, she may have noticed
+  the pattern that nobody else has.
+
+---
+
 ## Cast scaffolds
 
-### Additional love interests
+### Love interests
 
-> **TBD.** Seoyun needs a reason to be interested in anyone else. The current two
-> are a man who loves her and a man who is owed the truth; a third would need a
-> different relationship to the mask.
+> Three are sketched. The two men are defined by their relationship to the
+> mask: one loves her, one is owed the truth. A third would need a different
+> relationship to it again.
 
 | # | Name | Role | Knows? |
 |---|---|---|---|
 | 1 | Crown prince | Heir; in love with her | *TBD* |
-| 2 | Duke | Her cousin; away fighting her monsters | *TBD* |
-| 3 | *TBD* | | |
+| 2 | Duke | Her cousin; away fighting her monsters; whose fiancée she is not | *TBD* |
+| 3 | Irene de Closhe | *TBD — route, rival, or ally* | *TBD* |
+
+**On Irene as a route.** She is defined, unlike a blank third slot, and a
+merchant-noblewoman in a story about a fraud saintess has real material. But if
+she is a route she is a route for a protagonist who does not want love at all,
+so the route has to answer a different question than the others: not *what does
+she become for the person who loves her*, but *what does she do when someone
+sees her clearly and does not look away*. That is a harder and more interesting
+route, and it is the one that most directly threatens the mask.
+
+If she is not a route, she is the best supporting character in the cast: the
+person who knows the duke properly, who can hold his side of the story, and who
+has no reason to lie to Seoyun.
 
 ### Secondary
 
@@ -202,9 +270,14 @@ told.
 |---|---|---|
 | *TBD* | | The priests of the Temple, who oversee her constantly |
 
-### The magic alliance
+### Institutions
 
-Not a character, but an institution that acts as one. Forcibly recruits
-everyone with magical power, ranks S through F, and **abandoned an ordinary
-medic on a failed raid**. Whether it becomes an antagonist depends on the
-ordering question in [setting.md](setting.md).
+| Name | Role | Notes |
+|---|---|---|
+| **The Closhe merchants** | Trade, and the fourth power in a kingdom of soldiers and priests | Can see a supply crisis before a court can |
+| **The Temple** | Religious authority; keeps Seoyun; the only place she is constantly supervised | |
+| **The crown** | The prince, and the succession | |
+| **The magic alliance** | Korean institution that conscripted her; abandoned a medic on a failed raid | See [setting.md](setting.md) for whether it becomes an antagonist |
+
+Full entry in [setting.md](setting.md) for the world-side detail; the alliance
+is Korean, not a part of this cast.
