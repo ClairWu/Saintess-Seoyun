@@ -20,6 +20,10 @@ by the government, **forcibly recruits everyone with magical powers** and sends
 them to fight the monsters that emerge from **mysterious portals of unknown
 origin**. There is no opting out. Recruitment is not a career; it is a census.
 
+Korea has never had monsters of its own. Every incursion is something that came
+through a hole in the between — and since Seoyun's arrival, the count is
+climbing.
+
 She is **ordinary**. C-class and unremarkable, the rank given to anyone
 present and not in the way. She heals because healing is what she is for. She
 does not fight, does not stand out, and is not looked at twice.
@@ -33,19 +37,26 @@ abandoned, unseen. And then **her phone opens a portal**, and she falls through.
 
 She lands in the fantasy kingdom that is the setting of the current story.
 
-In that world, **monsters roam naturally** — they are ordinary fauna, not
-invaders. And **portals are the means by which they reach Korea**. What is a
-catastrophic incursion through a tear in the world back home is simply the
-local ecology crossing a border.
+Magic is **common, unremarkable, and integrated into daily life** rather than
+rare and weaponised. There is no magic alliance, no rank system, no state
+apparatus built around mages, because there was never a scarcity to manage.
+
+**The kingdom has no monsters.** Not a few, not in the wild — none. Neither
+does modern Korea. Monsters are not the local fauna of a neighbouring world
+crossing a border; they live in the **space between the dimensions**, in the
+between that a portal holds open, and they exist nowhere else. Both worlds are
+monster-free, and that is precisely what a portal ruins.
 
 Because mages are few and far between here, Seoyun is **the only healing-type
 mage in the kingdom**. The kingdom believes she is a **saintess sent by god as
-his emissary to deliver them**.
+his emissary to deliver them** — and she is the reason it is about to meet its
+first monsters.
 
 ### The crux of her drive
 
-Seoyun does not want to be a saint. She wants to be **the most powerful woman
-in the world** — a compensation for the moment she felt smallest and most
+Seoyun does not want to be a warm body in the army back home. 
+She does not want to be the saintess of such a dowdy small kingdom. 
+She wants to be **the most powerful woman in the world** — a compensation for the moment she felt smallest and most
 abandoned, the moment she was an ordinary person in a place where ordinary
 people die.
 
@@ -68,11 +79,33 @@ Each crossing lets her **absorb magical energy and grow stronger**.
 **Each portal she opens stays open after she passes through — and monsters come
 through it.**
 
-This is the spine of the story. Her power is bought by tearing holes in the
-border between the two worlds, and every hole is a permanent breach that lets
-the kingdom's native fauna into the country that abandoned her. She is not a
-reluctant conduit being used against her will. She is the one holding the door
-open, and she knows exactly what walks through.
+### The monsters live in the space between
+
+**Monsters do not belong to either world. They live in the inter-dimensional
+space that a portal holds open — the between.**
+
+Neither modern Korea nor the fantasy kingdom has native monsters. Both are
+monster-free worlds, and that is what makes them look safe until they aren't.
+**A portal is not a doorway between two places. It is a window into the space
+where monsters actually live**, and it spills them out in both directions.
+
+This changes the shape of the cost in a way the previous version got wrong.
+There is no asymmetry to exploit any more, and no ecology to appeal to. The
+kingdom does not have monsters the way it has forests or weather; the kingdom
+has no monsters at all, and a portal is how it gets some. Opening a hole does
+not let the kingdom's wildlife loose. It introduces an enemy that has never
+been there before, into a place with no defence against it and no idea what
+that enemy is.
+
+Every crossing she makes to grow stronger therefore **spills monsters into both
+worlds at once** — including the kingdom that worships her, and including Korea,
+the country that abandoned her. She is not choosing which side to hurt. She is
+the reason neither world is safe, and the magic alliance is about to find out
+why the monster population in modern Korea is climbing.
+
+This is the spine of the story. She is not a reluctant conduit being used
+against her will. She is the one holding the door open, and she knows exactly
+what walks through — into two places at once, neither of which asked for it.
 
 She is **an evil protagonist disguised as a saintess**. The player learns to
 read one set of lines as the sacred voice of a divine emissary, and the
@@ -111,30 +144,30 @@ Magic is **common, unremarkable, and integrated into daily life** rather than
 rare and weaponised. There is no magic alliance, no rank system, no state
 apparatus built around mages, because there was never a scarcity to manage.
 
-**Monsters roam this land naturally.** They are local fauna, not incursions.
-This is the detail that reconciles the two worlds: what is a catastrophic
-national emergency back in Korea is ordinary wildlife here. **Portals are the
-means by which they reach Korea** — the same crossing that is mundane on one
-side is a catastrophe on the other, and the asymmetry is the story's engine.
+**The kingdom has no monsters.** Neither does modern Korea. The kingdom's
+fantasy is high and its magic is everyday, but the things it has never had to
+fight are the things in the between. This is the detail that reconciles the two
+worlds, and it is not an asymmetry: **a portal is a window into the space where
+monsters actually live**, so opening one introduces them everywhere at once.
 
-That asymmetry is also the loophole Seoyun exploits. She is not a native of
-this world and does not share its instinct that monsters are simply animals.
-She is a portal-maker who has worked out that a portal is a hole, that holes
-persist, and that Korea will eventually have to fight what she let through.
+The kingdom is therefore not a place that has adapted to monsters. It is a
+place about to find out what monsters are, by having Seoyun put some in it.
 
-### The asymmetry that defines Seoyun's position
+### What the contrast defines
 
 | | Modern Korea | The kingdom |
 |---|---|---|
-| Magic | Rare, state-controlled | Common, ordinary |
-| Magic's role | Conscripted labour, ranked S–F | Part of everyday life |
-| Monsters | Portal incursions, national emergency | Native fauna |
-| Portals | Threat, militarised, answered with raids | Routine crossings |
+| Genre | Low fantasy / high-tech sci-fi | High fantasy |
+| Magic | Rare, state-controlled, ranked S–F | Common, ordinary, part of life |
+| Magic's role | Conscripted labour | Everyday practice |
+| Native monsters | **None** | **None** |
+| Where monsters come from | The space between the dimensions | The space between the dimensions |
+| Portals | Threat, militarised, answered with raids | A window that has never been opened |
 | Healer | One of many medics, ordinary | **The only one** |
 | Her status | Unnoticed, expendable, abandoned | **Believed a saintess, god's emissary** |
 | What she wants there | To be looked at | Not applicable |
 | What she wants here | — | **To be the most powerful woman in the world** |
-| What she is willing to pay | Her life, in a raid | **A permanent breach between the worlds** |
+| What she is willing to pay | Her life, in a raid | **Monsters, in both worlds, forever** |
 
 The two settings are not two backdrops for the same story. They are the two
 halves of a **status inversion**. The same healing ability that made Seoyun an
@@ -161,8 +194,8 @@ and who has since been feeding it.
 
 - **Compensation** — becoming the most powerful as a debt owed to the moment you were smallest
 - **The mask** — an evil protagonist whose player-facing face is a saint
-- **Collusion** — a country that conscripted her, and the damage she returns to it
-- **Unwanted divinity** — god's emissary is a role she is using, not a calling she accepted
+- **Ruining two safeties at once** — a gain for her is a catastrophe in both worlds
+- **Uninvited divinity** — god's emissary is a role she is using, not a calling she accepted
 - **The value of the ordinary** — the person she was, traded for the person she is becoming
 - **Holding the door open** — every gain of strength is purchased with a permanent breach
 
@@ -178,7 +211,8 @@ and who has since been feeding it.
 | **Drive** | To be the most powerful woman in the world, compensating for how small and abandoned she felt |
 | **True nature** | Evil protagonist, disguised as a saintess |
 | **Method** | Repeatedly crosses between worlds, absorbing magical energy to grow stronger |
-| **Cost** | Every portal she opens stays open behind her; monsters pass through into Korea |
+| **Cost** | Every portal stays open behind her; monsters from the space between spill into **both** worlds |
+| **The between** | Where monsters actually live — neither world has native monsters |
 | **In the kingdom** | The only healing-type mage; believed to be a saintess, an emissary of god |
 
 ---
@@ -231,10 +265,16 @@ Open questions that shape the scenario:
   artefact, something the kingdom's magic recognises, or a dead man's device
   that both worlds wanted badly enough to try. Also: is there a cost she is
   not seeing, or is the cost exactly the one she has accepted?
-- **Whether Korea ever fights back.** The state abandoned her, so her betrayal
-  is legible. The dangerous version is that the alliance, having lost an entire
-  medic who was the reason people survived, comes looking for her — and that
-  she has to choose which of the two worlds to keep standing.
+- **Whether the kingdom learns what she is.** She is worshipped there and is
+  personally responsible for introducing the first monsters that kingdom has
+  ever seen. The dramatic question is the order of discovery: does the
+  kingdom find out first, or Korea? Whichever does first defines who is hunting
+  her for the rest of the story.
+- **Whether the alliance can connect the breaches.** Korea is the world with
+  magic rare enough to be *studied* and an institution built to investigate it.
+  The scary version is that the magic alliance is methodical, and a rising
+  monster count with a consistent cause is exactly the kind of thing it would
+  find. They abandoned a medic once. They would not abandon this.
 - **Route count and exclusivity.** Whether routes are otome-standard separate
   playthroughs, or a single route with divergence. The status inversion
   (ordinary medic to saintess to a woman of monstrous power) fits the standard
