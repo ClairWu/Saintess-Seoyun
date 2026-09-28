@@ -197,6 +197,8 @@ told.
 | **Origin** | **Reincarnation of someone who lived in modern Korea** (revealed in chapter 3) |
 | **Her past life** | **A medic**, like Seoyun's former self |
 | **What she remembers of Seoyun** | **The most powerful healer in the country, with status and wealth surpassed by no one** |
+| **What that Seoyun becomes** | **S+ rank. She decimates the kingdom to uninhabitable cinders, then returns to modern Korea.** |
+| **When the player learns this** | Chapter 5 |
 
 ### The reveal (chapter 3)
 
@@ -206,11 +208,11 @@ thing Seoyun would expect of a merchant baroness in a high-fantasy kingdom.
 
 She remembers Seoyun as **the most powerful healer in Korea, her status and
 wealth surpassed by no one.** That is not the ordinary, expendable, C-rank
-medic that chapter 1 shows. **The two accounts of Seoyun's past life do not
-agree, and the game does not settle it in chapter 3.**
+medic that chapter 1 shows. **The two accounts of Seoyun's life do not agree,
+and the game does not settle it in chapter 3.**
 
-Who is wrong is the load-bearing question, and the possibilities are not
-equivalent:
+On first reading it looks like a question of who is wrong, and the possibilities
+are not equivalent:
 
 - **Seoyun lied in chapter 1** — to the player, to Irene, possibly to herself.
   The origin wound was a story she told, and the sympathy the player felt was
@@ -220,9 +222,14 @@ equivalent:
 - **Both are true** — Irene knew a Seoyun at the top of the country, and
   something happened that put her at the bottom before the raid.
 
-**The player should not be able to tell which, immediately.** Let the
-contradiction sit. A reveal resolved in one scene is a twist; one that sits is
-a question each route can answer differently.
+**Chapter 5 dissolves the question rather than answering it.** None of those
+three is the answer, because the frame was wrong: Irene is not describing
+Seoyun's past at all. She is describing where she is going. See the section
+below.
+
+**The player should not be able to tell any of this in chapter 3.** Let the
+contradiction sit for two chapters. A reveal resolved in one scene is a twist;
+one that sits is a question each route can answer differently.
 
 ### What it changes
 
@@ -239,15 +246,51 @@ That cuts two ways, and both should be playable:
   Irene is the one person who can catch her at it. **The kindest person in the
   castle is also the most dangerous witness.**
 
-And her refusal of the duke acquires a third reading. She declined him
-repeatedly for unknown reasons — and now she is a reincarnated Korean woman
-watching a kingdom mobilise for a war nobody can explain. **Maybe she is not
-refusing a man. Maybe she is refusing an arrangement that is about to kill
-people.**
+### She is describing the future, and she does not know it
 
-She is the woman the kingdom expects the duke to marry, and she will not have
-him. Nobody knows why. That silence is the most interesting thing about her, and
-it is doing at least three jobs at once.
+**This is the chapter 5 reframe, and it changes what she is.** Irene is not
+misremembering a rival version of Seoyun's past. She is remembering **where
+Seoyun ends up**: the most powerful healer in Korea, status and wealth
+surpassed by no one, then S+ rank, then **a kingdom reduced to uninhabitable
+cinders**, and then a return to modern Korea.
+
+Irene believes this is a memory of a past life. It is a **prophecy of this
+one**, and she is carrying it as though it already happened. Both women are
+describing the future; neither recognises it.
+
+**Nobody should be able to read chapter 3 correctly the first time.** Every line
+Irene says has to be genuinely ambiguous between "this happened to me before"
+and "this is going to happen to her," and the reassembly only completes in
+chapter 5. The reader who goes back afterwards should find that she was in the
+present tense the whole time.
+
+### What it changes
+
+Irene is a **peer from a previous life**, which is a relationship the rest of the
+cast cannot have. She is not competing with Seoyun for the prince and not
+in awe of the saintess — she is the one person who has already met who Seoyun
+is becoming, and did not like the ending.
+
+That cuts two ways, and both should be playable:
+
+- **Warmth.** She is reaching for a woman she actually knew. There is someone
+  she could know again.
+- **Exposure.** If Seoyun has been lying about who she was for the entire story,
+  Irene is the one person who can catch her at it. **The kindest person in the
+  castle is also the most dangerous witness.**
+
+**Her refusal of the duke now resolves.** She declined him repeatedly for
+reasons nobody knows, and she declined a man who was about to fight a war that
+ends in cinders. She refused because she remembered how it finished. The most
+interesting thing about her is now something she has been carrying alone, and
+the story's cruelest question is whether she ever tells the prince — or whether
+she lets him walk into an ending she has already watched once.
+
+**She is the only route to an ending that is not cinders.** If Irene is the only
+character who knows how the story finishes, then she is the only person the
+player can go to for a different outcome. That may be the strongest reason in
+the game for the player to want to talk to her honestly — and it is exactly the
+conversation the mask makes hardest.
 
 **She is a merchant's daughter in a world run by soldiers and priests.** The
 kingdom's power sits with the crown, the Temple, and the duke's line. Irene
@@ -268,28 +311,28 @@ That is the sharp version, and it does not require Irene to be a rival or an
 enemy. It only requires her to be **observant, kind, and paying attention**,
 which is exactly what she has been described as.
 
-**The unanswered proposal is the real hook.** The obvious reading is that she
-does not love the duke. The more interesting reading is that she has found a
-reason to refuse him that she cannot say — that the coming disaster is visible
-to a merchant who deals in risk and supply, and marrying into a military house at
-that moment looks like a mistake. If Irene can see the wave coming and the duke
-is out fighting it, her refusal stops being coy and starts being a judgement on
-the entire arrangement.
+**The unanswered proposal resolves in chapter 5.** On first reading it looks
+like coyness or a private attachment. It is neither: **she declined a man who
+was about to fight a war that ends in cinders, because she remembered how it
+finished.** Every refusal was a judgement on the entire arrangement, made by
+someone who had already watched the outcome.
 
 ### Open questions
 
-- **Why has she declined him?** Decide this before writing her, because it
-  determines what she is. Boredom, a real attachment elsewhere, political
-  caution, or knowledge she cannot speak are four different characters. The
-  reincarnation adds a fifth: foreknowledge of a disaster.
+- **What is her endgame?** She knows how it ends and has declined to intervene
+  in the one way available to her — refusing a proposal. Is she waiting for a
+  better opening, protecting a specific person, or resigned? This is the most
+  important open question in the cast, because if she is the only one who knows
+  the ending, she is the only route out of it.
 - **Is she a route?** See below.
 - **Does she know about the portals?** A merchant family hears things, and she
   remembers Korea. If Closhe trade routes carry reports of monsters appearing,
   she may have noticed the pattern nobody else has.
 - **Does Seoyun recognise her?** Undecided, and worth deciding early. If Seoyun
-  remembers nothing of a past life, then Irene's recognition is one-sided and
-  Seoyun is a stranger hearing a very intimate accusation. If she remembers
-  something, the reveal lands differently.
+  remembers nothing of a past life, then Irene's knowledge is one-sided and
+  Seoyun is a stranger hearing a very intimate prophecy. If she remembers
+  something, the chapter 5 reveal lands differently — and it is also the answer
+  to whether the cinders ending can be broken.
 
 ---
 
