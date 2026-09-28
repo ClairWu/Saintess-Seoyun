@@ -77,13 +77,29 @@ thing that answers that: attention, reverence, standing.
 
 ## Chapter Overviews
 
-> **Status: Ch1 outlined below, Ch2+ unwritten.** Each entry covers location,
-> cast, beats, the emotional turn, and where the choice points sit.
+> **Status: Ch1 outlined. Ch2 sketch + beats. Ch3 and Ch4 outlined at story
+> level, unwritten at beat level.** Each entry covers location, cast, beats, the
+> emotional turn, and where the choice points sit.
+>
+> **Planned shape:**
+>
+> | Ch | Title | Covers |
+> |---|---|---|
+> | 1 | *Seoyun* | The raid, and her arrival in the kingdom |
+> | 2 | | The Temple, the palace, the prince, the duke, Baroness Closhe |
+> | 3 | | Baroness Closhe revealed as a reincarnation; what she remembers |
+> | 4 | | The first trip back to Korea, and the first step toward villainy |
+>
+> **The structural spine: chapters 1 and 3 are about the same woman and do not
+> agree.** Chapter 1 is Seoyun's own account of who she was. Chapter 3 is
+> someone else's, and it is better informed. Everything between them is the
+> player believing the first one.
 
 ### Chapter 1 — *Seoyun*
 
-The origin, the crossing, and the first decision. The chapter's job is to make
-the player complicit before it makes them sympathetic.
+**The raid, and the arrival.** Two acts, no love interests, no crossing. The
+chapter's job is to establish a version of Seoyun the player will later have to
+give up.
 
 #### Act 1 — The raid (modern Korea)
 
@@ -114,10 +130,8 @@ the player complicit before it makes them sympathetic.
 
 - **Setting:** The kingdom. High fantasy, everyday magic, small. No monsters,
   because monsters live in the between and nothing has ever been opened onto it.
-- **Cast:** Seoyun. Kingdom people — whoever finds her.
-- **Setting:** The kingdom — the **Temple** first, then the **imperial palace**.
-- **Cast:** Seoyun. The **crown prince**. Temple priests. The duke is absent, on
-  his mission.
+- **Cast:** Seoyun. Kingdom people — whoever finds her. No named supporting cast;
+  the prince, the duke and the baroness all arrive in chapter 2.
 - **Beats:**
   - She lands, disoriented, in a place that looks like the novel-world she fell
     out of. She is alive, which she did not plan on.
@@ -127,67 +141,131 @@ the player complicit before it makes them sympathetic.
   - **The miracle.** With no mages of healing here to compare against, a single
     ordinary medic reads as a marvel. The kingdom concludes she is a saintess
     sent by god to deliver them.
-  - **The Temple takes custody of her.** Beautiful, cold, and structured around
-    the one thing she can do. She is to learn their religion, be a role model to
-    the people, and bless those who need it. The priests are on her constantly.
-    This is her life now, and it is a cage with excellent architecture.
-  - **The palace, on temple business.** Her rare trip out, on the condition that
-    she meet the crown prince. Without the priests she is **more free than she has
-    been since she arrived**, and the prince is **polite, handsome, blonde,
-    blue-eyed, intelligent, and a great swordsman** — and he treats her like a
-    person rather than an office.
-  - **He begins to fall in love with her, quickly.** He dotes on her more than
-    strictly professionally, and she feels she **might even fall in love.**
-  - **The duke is discussed, not seen.** He is the most noble man in the kingdom
-    after the prince, and he is away on a mission. If the kingdom mentions why,
-    it is as an absence, not a problem — nobody here connects the monsters to
-    the woman who arrived in the same week.
-- **Turn:** She arrives with nothing, is given everything she did not ask for,
-  and finds in one of the people giving it to her a reason to hesitate.
-- **Note:** This is the game's thesis in one act. The player is handed the mask
-  before they have any reason to put it on — the kingdom gives her sainthood, and
-  she is the only one who treats it as a tool. The prince is then placed in the
-  same act so that the ambivalence is established *before* the first crossing.
-  That ordering is deliberate: **Act 3 only lands if the player already has
-  something she might lose.** If she crosses with nothing to weigh, she is just
-  a woman being greedy, and the chapter's ending has no teeth.
+  - The wave she brought is already visible somewhere in the distance — the
+    duke is away fighting it. **Nobody connects the two events.** Seoyun does not
+    connect them either, because she does not know yet. The player should be
+    given the two facts side by side and no commentary.
+- **Turn:** She arrives with nothing and is immediately given everything she did
+  not ask for.
+- **Note:** The player is handed the mask before they have any reason to put it
+  on. The kingdom gives her sainthood, and she is the only one who treats it as
+  a tool. End the chapter on that, before she has decided what to do with it.
 
-  The ambivalence here is **morally neutral** and should read that way. She
-  wants freedom, safety, and power, and none of the three is on offer. She is not
-  planning to betray anyone. She has a preference for being left alone with the
-  ability to act, and the story's job is to keep that preference looking
-  reasonable until it isn't.
+#### What chapter 1 must not do
 
-#### Act 3 — The first crossing (the choice)
+- **Do not make her sympathetic.** She is ordinary, unremarkable, and left to
+  die. That is sympathy, and spending it here means the player has no reason to
+  be uncomfortable later.
+- **Do not introduce the love interests.** The prince, duke and baroness all
+  arrive in chapter 2, which keeps the status inversion clean: chapter 1 is
+  about who she was, chapter 2 is about what she is being made into.
+- **Do not let her cross deliberately.** The phone is used once, involuntarily,
+  in Act 1. It is not yet a door she controls.
+- **Do not show the cost.** The wave is a rumour. The player sees the fact and
+  not the cause. Learning what the portals do is chapter 4's business.
+- **Do not have her heal someone and then do something monstrous to them.** The
+  mask is structural, not a betrayal of a specific person.
 
-- **Setting:** The kingdom, and one deliberate trip back to Korea.
-- **Cast:** Seoyun, alone — and whoever is waiting when she comes back. This is
-  the beat where the player does something the player cannot take back.
+### Chapter 2 — *TBD*
+
+**Introduces the two settings and the four people who will define the game.** The
+cage, the one door out of it, and everyone with an interest in her.
+
+- **Setting:** The **Temple** (beautiful, cold, closely supervised) and the
+  **imperial palace** (rare visits, on temple business, no oversight).
+- **Cast:** Seoyun, the **crown prince**, the **duke**, **Baroness Irene de
+  Closhe**, and the Temple priests.
 - **Beats:**
-  - She works out what the phone is. Not a rescue, not a one-way fall — a
-    **door she controls**, in both directions.
-  - She works out the second thing: crossing makes her stronger. Magic draws
-    magic, and the between is thick with it.
-  - **The cost, discovered by her, not by narration.** She opens a portal, comes
-    back, and something came through it with her. Monsters in a world that has
-    never had monsters.
-  - She has the information she needs to stop. She chooses not to.
-- **Turn:** This is where the protagonist is made. Not when she wanted power —
-  when she learned the price and kept going.
-- **Note on what she is choosing between.** The chapter has just given her a
-  reason to hesitate — the prince, the one warm unobserved room in a cold
-  kingdom — and the crossing is how she sets that aside. She does not decide he
-  is not worth it. She decides he is worth exactly as much as being able to
-  leave, and being able to leave is worth more. **The first crossing should be
-  the moment the ambivalence resolves into something colder**, and the prince
-  should not be present for it, so that the player is not given a scene in which
-  to feel sorry for her.
-- **Choices / Endings touched:** First and smallest. See below.
+  - **The Temple takes custody of her.** She is to learn their religion, serve
+    as a role model to the people, and bless those who need it. The priests are
+    on her constantly, her comings and goings are governed, and she has no
+    privacy. This is her life now: a cage with excellent architecture.
+  - **The palace, on temple business.** Her rare trip out. Without the priests
+    she is **more free than she has been since she arrived** — and this is also
+    the only place she could use the phone unseen.
+  - **The crown prince.** Polite, handsome, typically blonde and blue-eyed,
+    intelligent, and a great swordsman. He **dotes on her more than strictly
+    professionally**, and she feels she **might even fall in love.** He begins
+    falling quickly — before she has decided anything, which means she is the
+    only one who knows what she is doing while he is already in love.
+  - **The duke.** The most noble man in the kingdom after the prince — and away
+    on a mission, fighting the wave. He may be discussed here or arrive in
+    person; the outline should not assume. Either way, **nobody in the kingdom
+    connects the monsters to the woman who arrived the same week.**
+  - **Baroness Closhe.** Kind and thoughtful, of the merchant family, and
+    **widely expected to marry the duke — a man she has declined repeatedly, for
+    reasons nobody knows.** A merchant's daughter among soldiers and priests, in
+    a kingdom about to become militarised. Her attention is the observant kind.
+- **Turn:** She is installed, contained, and courted. Every one of those is a
+  different kind of cage, and she can feel all of them.
+- **Note:** The ambivalence here is **morally neutral** and should read that
+  way. She wants freedom, safety, and power, and none of the three is on offer
+  anywhere. She is not planning to betray anyone. She has a preference for being
+  left alone with the ability to act, and the story's job is to keep that
+  preference looking reasonable until it is not. **Chapter 4 only lands because of
+  this chapter** — she needs something to be setting aside.
+- **Choices / Endings touched:** Route opening, if routes open this early.
+  Otherwise a choice about how much to tell the Temple, or whether to attend the
+  palace visit at all.
+
+### Chapter 3 — *What Irene Remembers*
+
+**The reveal that reframes chapter 1.** Outline only; beats not written.
+
+- **Setting:** The kingdom, and the Closhe domain.
+- **Cast:** Seoyun and Baroness Irene de Closhe. The scene should be mostly these
+  two.
+- **The reveal, in the order given:**
+  1. **Baroness Closhe is a reincarnation of someone who lived in modern Korea.**
+     Not a visitor — she was born into this body, into this world, and remembers
+     the other one.
+  2. **She was a medic in Korea too.** A peer of Seoyun's former self, not a
+     saintess and not a rival. This is the last thing Seoyun would expect.
+  3. **She remembers Seoyun as the most powerful healer in the country**, with
+     status and wealth surpassed by no one — **not** the ordinary, expendable,
+     C-rank medic that chapter 1 described.
+- **Turn:** The protagonist the player has been following is a version, and
+  someone else was there for the original.
+- **The load-bearing question:** who is wrong?
+  - **Seoyun lied in chapter 1** — to the player, to Irene, possibly to herself.
+    The whole origin wound is a story she tells. This is the strongest version
+    for an evil protagonist, because it means the sympathy the player felt in
+    chapter 1 was manufactured.
+  - **Irene misremembers**, or remembers a different Seoyun, or a Seoyun from a
+    different part of a long life.
+  - **Both are true** — Irene knew a Seoyun at the top, and something happened
+    that put her at the bottom before the raid.
+- **Note:** Whichever it is, **the player must not be able to tell immediately
+  which.** Let the contradiction sit for a chapter. A reveal the player can
+  resolve in one scene is a twist; one that sits is a question the routes can
+  each answer differently.
+
+### Chapter 4 — *The First Trip Back*
+
+**The first step toward villainy, made without understanding it.** Outline only.
+
+- **Setting:** Modern Korea, and the return to the kingdom.
+- **Cast:** Seoyun. The alliance, and whoever is still alive from the raid.
+- **Beats:**
+  - She has learned enough to know the phone is a **door she controls**, in both
+    directions — and that crossing makes her stronger. The between is thick with
+    magic and she is drawing on it.
+  - **She goes back to Korea.** To be stronger. That is the whole of her motive
+    and it should be legible and not yet monstrous.
+  - **She does not realise the consequences of the trip until she returns.** She
+    finds out what a portal left open only after she has come back through it.
+  - **This is the chapter where the player becomes complicit**, because they were
+    in Korea with her while she did it.
+- **Turn:** She came back stronger, and something came through behind her, and
+  she now has the information she needs to stop.
+- **Note on ordering:** she learns the cost *after* the act, not before. That is
+  what makes chapter 4 the beginning of villainy rather than the confirmation of
+  it. She is not refusing to stop; she is finding out there is something to stop.
 
 #### The chapter's choice
 
 Small enough to be deniable, which is the point — it teaches the player the
-mechanic without making them feel guilty yet:
+mechanic without making anyone feel guilty yet:
 
 - **Close the portal** and lose the strength. The door stops costing. The story
   is about a woman who could have stopped.
@@ -196,37 +274,7 @@ mechanic without making them feel guilty yet:
 
 Either branch ends the chapter with her back in the kingdom, more powerful, and
 one world already worse off. **The branch decides what the player is, not what
-happens next** — the plot continues either way, and the game should make clear
-that neither choice is reversible.
-
-#### What chapter 1 must not do
-
-- **Do not make her sympathetic yet.** She is ordinary, unremarkable, and left
-  to die. That is sympathy, and spending it in Act 1 makes Act 3 meaningless.
-  The prince's attention is *not* a substitute for it — he loves a role she is
-  performing, which is a sharper instrument than pity, not a softer one.
-- **Do not resolve the love interest.** The prince may begin to fall, and she may
-  notice, and that is the ceiling for chapter 1. Do not let either of them
-  *complete* anything. His love should be the thing she is about to trade away,
-  and the player should be able to feel the weight of it before she does.
-- **Do not let the kingdom learn what she is.** That belongs to a later chapter
-  (see the discovery ordering in [setting.md](setting.md)). The duke's absence
-  in chapter 1 is what protects this: the one man with evidence is in the field.
-- **Do not have her heal someone and then do something monstrous to them.** The
-  mask is structural, not a betrayal of a specific person, in chapter 1.
-- **Do not show the duke.** Referenced, not present. His entrance is a later
-  chapter's beat.
-
-### Chapter 2 — *TBD*
-
-Not written. The natural hand-off is the kingdom's first monster encounter, with
-Seoyun as the only healer in a world that does not know what it is fighting.
-
-- **Setting:** The kingdom, and the Temple under pressure.
-- **Cast:** Seoyun, the crown prince, the Temple priests. The duke is still
-  away — or is he?
-- **Turn:**
-- **Choices / Endings touched:**
+happens next** — the plot continues either way, and neither choice is reversible.
 
 ### Later Chapters
 
@@ -241,12 +289,13 @@ Provisional, and worth revisiting once the route structure is decided.
 | Arc | Opens | Question it answers |
 |---|---|---|
 | **The mask** | Ch1 Act 2 | How long can she be worshipped as something she isn't? |
-| **The door** | Ch1 Act 3 | How many breaches before someone counts them? |
-| **The cage** | Ch1 Act 2 | The Temple is beautiful, cold, and watched. When does she need to get out? |
-| **The prince** | Ch1 Act 2 | What does she owe someone who loves a role she is playing? |
-| **The duke's return** | Ch2+ | The most noble man in the kingdom comes home from fighting her monsters. |
-| **Irene's refusal** | Ch2+ | Why has she declined the duke? And who else can see what is coming? |
-| **Korea** | Ch2 or 3 | Will the alliance find her, and what happens when they do? |
+| **The cage** | Ch2 | The Temple is beautiful, cold, and watched. When does she need to get out? |
+| **The prince** | Ch2 | What does she owe someone who loves a role she is playing? |
+| **Irene's refusal** | Ch2 | Why has she declined the duke? And who else can see what is coming? |
+| **The two accounts** | Ch3 | Whose Seoyun is real — hers, or the one Irene worked beside? |
+| **The door** | Ch4 | How many breaches before someone counts them? |
+| **The duke's return** | Ch4 or 5 | The most noble man in the kingdom comes home from fighting her monsters. |
+| **Korea** | Ch4 | Will the alliance find her, and what happens when they do? |
 | **The reckoning** | Late | Does she ever close the door, and who is left outside it? |
 
 The Temple and the palace are worth treating as an arc rather than a backdrop,

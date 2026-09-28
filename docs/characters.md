@@ -194,6 +194,56 @@ told.
 | **Reputation** | **Kind and thoughtful** — widely believed |
 | **Standing with the duke** | **His preferred choice of fiancée** |
 | **His proposals** | **She has declined them. Repeatedly. For reasons unknown.** |
+| **Origin** | **Reincarnation of someone who lived in modern Korea** (revealed in chapter 3) |
+| **Her past life** | **A medic**, like Seoyun's former self |
+| **What she remembers of Seoyun** | **The most powerful healer in the country, with status and wealth surpassed by no one** |
+
+### The reveal (chapter 3)
+
+Irene is not a visitor. She was **born into this body, into this world**, and
+remembers the other one — and she was a **medic** there too, which is the last
+thing Seoyun would expect of a merchant baroness in a high-fantasy kingdom.
+
+She remembers Seoyun as **the most powerful healer in Korea, her status and
+wealth surpassed by no one.** That is not the ordinary, expendable, C-rank
+medic that chapter 1 shows. **The two accounts of Seoyun's past life do not
+agree, and the game does not settle it in chapter 3.**
+
+Who is wrong is the load-bearing question, and the possibilities are not
+equivalent:
+
+- **Seoyun lied in chapter 1** — to the player, to Irene, possibly to herself.
+  The origin wound was a story she told, and the sympathy the player felt was
+  manufactured. This is the strongest version for an evil protagonist.
+- **Irene misremembers**, or remembers a different Seoyun, or a Seoyun from a
+  different part of a very long life.
+- **Both are true** — Irene knew a Seoyun at the top of the country, and
+  something happened that put her at the bottom before the raid.
+
+**The player should not be able to tell which, immediately.** Let the
+contradiction sit. A reveal resolved in one scene is a twist; one that sits is
+a question each route can answer differently.
+
+### What it changes
+
+Irene is a **peer from a previous life**, which is a relationship the rest of the
+cast cannot have. She is not competing with Seoyun for the prince and not
+in awe of the saintess — she is the one person who knew her before, and who
+remembers her as someone else entirely.
+
+That cuts two ways, and both should be playable:
+
+- **Warmth.** If her memory is accurate, she is reaching for a woman Seoyun used
+  to be. There is someone she could know again.
+- **Exposure.** If Seoyun has been lying about who she was for the entire story,
+  Irene is the one person who can catch her at it. **The kindest person in the
+  castle is also the most dangerous witness.**
+
+And her refusal of the duke acquires a third reading. She declined him
+repeatedly for unknown reasons — and now she is a reincarnated Korean woman
+watching a kingdom mobilise for a war nobody can explain. **Maybe she is not
+refusing a man. Maybe she is refusing an arrangement that is about to kill
+people.**
 
 She is the woman the kingdom expects the duke to marry, and she will not have
 him. Nobody knows why. That silence is the most interesting thing about her, and
@@ -230,11 +280,16 @@ the entire arrangement.
 
 - **Why has she declined him?** Decide this before writing her, because it
   determines what she is. Boredom, a real attachment elsewhere, political
-  caution, or knowledge she cannot speak are four different characters.
+  caution, or knowledge she cannot speak are four different characters. The
+  reincarnation adds a fifth: foreknowledge of a disaster.
 - **Is she a route?** See below.
-- **Does she know about the portals?** A merchant family hears things. If
-  Closhe trade routes carry reports of monsters appearing, she may have noticed
-  the pattern that nobody else has.
+- **Does she know about the portals?** A merchant family hears things, and she
+  remembers Korea. If Closhe trade routes carry reports of monsters appearing,
+  she may have noticed the pattern nobody else has.
+- **Does Seoyun recognise her?** Undecided, and worth deciding early. If Seoyun
+  remembers nothing of a past life, then Irene's recognition is one-sided and
+  Seoyun is a stranger hearing a very intimate accusation. If she remembers
+  something, the reveal lands differently.
 
 ---
 
@@ -250,7 +305,7 @@ the entire arrangement.
 |---|---|---|---|
 | 1 | Crown prince | Heir; in love with her | *TBD* |
 | 2 | Duke | Her cousin; away fighting her monsters; whose fiancée she is not | *TBD* |
-| 3 | Irene de Closhe | *TBD — route, rival, or ally* | *TBD* |
+| 3 | Irene de Closhe | Reincarnated peer; remembers her as someone else | Knows too much |
 
 **On Irene as a route.** She is defined, unlike a blank third slot, and a
 merchant-noblewoman in a story about a fraud saintess has real material. But if
