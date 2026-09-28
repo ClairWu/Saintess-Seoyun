@@ -69,8 +69,15 @@ halves of an inversion that defines the protagonist.
 | Healer | One of many medics, ordinary | **The only one** |
 | Her status | Unnoticed, expendable, abandoned | **Believed a saintess** |
 | What she wants there | To be looked at | Not applicable |
-| What she wants here | — | **To be the most powerful woman in the world** |
+| What she wants here | — | **S+ rank. The kingdom is the sacrifice.** |
 | What she will pay | Her life, in a raid | **Monsters, in both worlds, forever** |
+
+The last row is the one to hold onto. **S+ is not a means to an end.** If the
+status is the goal, then everything she does reads as instrumental only to a
+reader who assumes she wants something else, and she does not. She promised the
+duke Korea and kept him; she promised Irene a partnership and displaced her; she
+promised the kingdom mages and brought monsters. Every promise in this story is
+a recruitment.
 
 She arrives having felt small and abandoned, and the kingdom hands her the one
 thing that answers that: attention, reverence, standing.
@@ -93,13 +100,12 @@ thing that answers that: attention, reverence, standing.
 > | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
 > | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
 >
-> **Chapters 3 and 5 are player-only and route-specific.** In every other route
-> Baroness Closhe is a wary side character who is otherwise unremarkable, and
-> the player never learns any of this. Only in her route does she become a
-> second protagonist, and only there does the player receive the ending in
-> advance and have to watch it begin.
+> **Chapters 3 and 5 are player-only and route-specific, and so is the duke's
+> POV chapter.** In every other route Baroness Closhe is a wary side character who
+> is otherwise unremarkable, and the player learns nothing of the inner lives.
+> Two routes turn the camera on someone who knows what Seoyun is.
 >
-> **Two structural spines, running in parallel.**
+> **Three structural spines, running in parallel.**
 >
 > **The unreliable account.** Chapters 1 and 3 are about the same woman and do
 > not agree. Chapter 1 is Seoyun's own account of who she was. Chapter 3 is
@@ -115,6 +121,36 @@ thing that answers that: attention, reverence, standing.
 > not "she was more powerful than she admits." It is **"I have already met the
 > woman you are going to become."** And because it reaches the player rather than
 > Seoyun, the player is the only one who can act on it — and cannot.
+>
+> **The two kinds of route.** Irene's route gives the player a prophet who cannot
+> speak. The duke's route gives the player a man who already has every reason to
+> disbelieve her, and is proven right. **Neither of them is a route where Seoyun
+> wins the person.** Only the prince's is.
+
+---
+
+## The four drives
+
+Every perspective in the cast is pursuing something, and the one thing none of
+them can have is the same thing. Set against each other these are the routes.
+
+| Character | Wants | Because | Knows about the loop? |
+|---|---|---|---|
+| **Seoyun** | **S+ rank**, at the cost of the kingdom | The moment she felt smallest and abandoned | Only that she is climbing. Not that there is a loop |
+| **Irene** | **To escape the life she remembers** — where Seoyun outshone her and the duke neglected her | She was assigned to be his back-up, and was never the first choice | **Yes. Fully.** She has seen the ending |
+| **The duke** | **To save the kingdom** | It is his country and he is its soldier | **Yes.** He was promised Korea, given Korea, and used |
+| **The prince** | **To save the kingdom** | Same country, and he is meant to inherit it | **No.** He has no past life and no information |
+
+The asymmetry in the last column is the whole design. **Three of the four
+characters want to stop what Seoyun is about to do, and she is the only one who
+does not know it is coming.** The prince is worse off than the others despite
+wanting the same thing, because he wants it *and* loves her, and has no idea
+there is anything to stop.
+
+**Seoyun is sacrificing the kingdom to secure her S+ status.** That is not a
+means to an end; the status *is* the end. Everything she does reads as
+instrumental only if you assume she wants something else. She does not. The
+kingdom is the sacrifice.
 
 ### Chapter 1 — *Seoyun*
 

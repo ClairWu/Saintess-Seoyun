@@ -135,50 +135,92 @@ means **she is the only one in the palace who knows what she is doing while he i
 already in love.** She is not deceiving a stranger. She is letting a good man
 believe something she knows to be false, and she keeps letting him.
 
+### What the prince is, structurally
+
+The prince is the **only one of the three men who has no information at all** —
+no past life, no suspicion, no knowledge of any other life. He wants the same
+thing as the duke, to save the kingdom, and he has **no idea there is anything
+to stop.**
+
+**He is in love with Seoyun, and it is unfortunate rather than ironic.** He is
+not fooled by her; he is drawn to her. That is the difference from the duke,
+and it is why he is the hardest case. The duke's route is about a man who
+already knows; the prince's is about a man who would believe her.
+
 ### Open question
 
-Does he ever learn? He is intelligent, which is a problem for the mask. A route
-where he works out that the saint is a fraud — or worse, that she is the reason
-monsters are coming — inverts the whole route. He is the natural plant for
-reader doubt, because the reader trusts him.
+Does he ever learn? He is intelligent, which is a problem for the mask. He is
+also the only character who would have no reason to suspect, so the suspicion
+would have to be manufactured — and the story may not want to manufacture it.
+The prince's route may be the one in which Seoyun is never exposed, and the
+tragedy is that a good man walks into the ending with his eyes open and happy.
 
 ---
 
 ## The duke
 
-**The crown prince's cousin. The second love interest.**
+**The crown prince's cousin. The second POV. The only one who is already her
+enemy.**
 
 | | |
 |---|---|
 | **Name** | *TBD* |
 | **Role** | Duke, the crown prince's cousin |
 | **Standing** | **The most noble man in the kingdom after the prince** |
-| **Status** | **Away on a mission** |
+| **Status** | Away on a mission, then **POV protagonist in his own route** |
 | **On that mission** | Fighting back the monster wave Seoyun's arrival brought |
+| **Drive** | **To save the kingdom** |
+| **Feeling toward Seoyun** | **Hates her** |
+| **Past life** | **Reincarnated. He was the same duke, and she appeared as the same saintess.** |
 
-He is away for most of the story, fighting the direct consequences of Seoyun
-arriving, and **nobody in the kingdom knows she is the cause.**
+### What he remembers, and what she did
 
-The structural joke is deliberate: the duke is the man whose entire current
-occupation is the evidence of her crime, and he is conveniently absent. **The
-player meets the consequences of her actions before they meet the man fighting
-them.**
+**In his past life he was the same duke he is now, and the Saintess appeared to
+him exactly as she has now.** He remembers her, and what he remembers is this:
 
-It also makes him the sharpest route in the game. He is a man of honour who has
-spent months in the field against something nobody could explain, and then he
-comes home and meets the person who could explain it and does not. **He has
-earned the right to the answer** in a way the prince has not.
+1. **She promised to take him to her homeland** — Korea — to find more mages and
+   bring back manpower to protect the kingdom from what was coming. A rescue
+   plan. He gave her his word and his country.
+2. **She betrayed him.** She took him to Korea and **kept him there**, working
+   for the government, conscripted into the same machine that had conscripted
+   her. He did not come home.
+3. **She planned to be paired with him.** The pairing was the arrangement, and
+   she was going to be the one beside him.
 
-His return should be a major beat, not a cameo. When the most noble man in the
-kingdom walks into a court that has been worshipping a saintess, and he knows
-something about monsters that nobody else does, the mask has its worst possible
-audience.
+**The fourth beat is the one that indicts her, and it is not about betrayal at
+all.** Irene's past self had **better magical compatibility with the duke than
+Seoyun did, despite having far less magical power overall** — and was therefore
+**assigned as his back-up instead.** So the woman Seoyun had displaced was
+already beside him, and Seoyun was not.
+
+### Why this is the sharpest route in the game
+
+The duke is the only character who has **every reason to disbelieve her and is
+already right.** He was promised a rescue and got a conscription. He was
+promised Seoyun and got a back-up with better compatibility and less power. He
+knows what she does with people who trust her, because he is one.
+
+**The player meets the consequences of her actions before they meet the man
+fighting them**, and now the reason is sharper: the duke is away fighting the
+monsters *she* brought, and when he comes back he is a man who has already been
+her victim once.
+
+This is the route where the mask has the worst possible audience, and the
+audience **arrives already informed**. Nobody has to prove anything to him.
+
+**Note on the route's shape:** this is the one route Seoyun does not win. He is
+not withholding his heart pending persuasion. The question in his route is not
+whether she can make him love her, but whether she can *use* him — and the
+player knows what she wants him for, even if he cannot act on knowing it yet.
 
 ### Open question
 
-Does he suspect on sight, or work it out? A duke who figures it out alone,
-before anyone tells him, is a different and more dangerous story than one who is
-told.
+Does he suspect on sight, or does he have to work it out? A duke who figures it
+out alone, before anyone tells him, is a different and more dangerous story than
+one who is told. **Given that he is a past-life rememberer, and the person he
+remembers did exactly this to him before, the suspicion may be immediate and
+total.** Worth deciding early, because it determines whether the route has a
+mystery in it at all.
 
 ---
 
@@ -197,7 +239,8 @@ only in her own route.**
 | **His proposals** | **She has declined them. Repeatedly. For reasons unknown.** |
 | **How the player meets her** | **A side character who seems strangely wary of Seoyun, and is otherwise unremarkable** |
 | **Origin** | **Reincarnation of someone who lived in modern Korea** — Irene's route, chapter 3 |
-| **Her past life** | **A medic**, like Seoyun's former self |
+| **Her past life** | **A medic**, like Seoyun's former self, and never the first choice |
+| **Her drive** | **To escape the life she remembers** — outshone by Seoyun, neglected by the duke |
 | **What she remembers of Seoyun** | **The most powerful healer in the country, with status and wealth surpassed by no one** |
 | **What that Seoyun becomes** | **S+ rank. She decimates the kingdom to uninhabitable cinders, then returns to modern Korea.** |
 | **When the player learns this** | Chapter 3, and the full shape of it in chapter 5 |
@@ -262,21 +305,6 @@ on it is being lied to by a woman who is trying to warn her.
 a confrontation instead of a tragedy. The design depends on the protagonist being
 unavailable to a truth the player is holding.
 
-#### What it changes
-
-Irene is a **peer from a previous life**, which is a relationship the rest of the
-cast cannot have. She is not competing with Seoyun for the prince and not
-in awe of the saintess — she is the one person who already met who Seoyun is
-becoming, and did not like the ending.
-
-That cuts two ways, and both should be playable:
-
-- **Warmth.** If her memory is accurate, she is reaching for a woman Seoyun used
-  to be. There is someone she could know again.
-- **Exposure.** If Seoyun has been lying about who she was for the entire story,
-  Irene is the one person who can catch her at it. **The kindest person in the
-  castle is also the most dangerous witness.**
-
 ### She is describing the future, and she does not know it
 
 **This is the chapter 5 reframe, and it changes what she is.** Irene is not
@@ -310,12 +338,24 @@ That cuts two ways, and both should be playable:
   Irene is the one person who can catch her at it. **The kindest person in the
   castle is also the most dangerous witness.**
 
-**Her refusal of the duke now resolves.** She declined him repeatedly for
-reasons nobody knows, and she declined a man who was about to fight a war that
-ends in cinders. She refused because she remembered how it finished. The most
-interesting thing about her is now something she has been carrying alone, and
-the story's cruelest question is whether she ever tells the prince — or whether
-she lets him walk into an ending she has already watched once.
+**Her drive, precisely.** She is **trying to escape the life she remembers** — the
+life in which **Seoyun outshone her** and **the duke neglected her**. She was
+never the first choice. She had better compatibility with the duke and less
+power, and she was made the back-up, and then the back-up was the whole of what
+she got. Her route is not the story of a woman trying to save the kingdom. It is
+the story of a woman trying to not be the second choice again.
+
+**This reframes her refusal of the duke.** She declined him repeatedly, and the
+reason is now legible from inside: **she does not want the arrangement Seoyun
+wanted and lost, and she does not want the man who did not notice she was
+there.** She is running from a life in which she was adjacent to a partnership
+and adjacent to nothing else.
+
+**Her refusal of the prince is the cruel version.** She is the only one who
+knows, and the prince is in love with Seoyun and wants to save his kingdom, and
+Irene is the person who has watched this end before. The story's cruelest
+question for her is whether she ever tells him, or lets him walk into it
+knowing what she knows.
 
 **She is the only route to an ending that is not cinders.** If Irene is the only
 character who knows how the story finishes, then she is the only person the
@@ -377,9 +417,9 @@ someone who had already watched the outcome.
 
 | # | Name | Role | Knows? |
 |---|---|---|---|
-| 1 | Crown prince | Heir; in love with her | *TBD* |
-| 2 | Duke | Her cousin; away fighting her monsters; whose fiancée she is not | *TBD* |
-| 3 | Irene de Closhe | Reincarnated peer; remembers her as someone else | Knows too much |
+| 1 | Crown prince | Heir; in love with her; **no information at all** | No — and would believe her |
+| 2 | Duke | Her cousin; **already her enemy**; remembers being betrayed | Yes, and hostile |
+| 3 | Irene de Closhe | Reincarnated peer; **escaping the life she remembers** | Yes, and carrying it alone |
 
 **On Irene as a route.** She is defined, unlike a blank third slot, and a
 merchant-noblewoman in a story about a fraud saintess has real material. But if
