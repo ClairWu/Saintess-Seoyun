@@ -184,7 +184,8 @@ told.
 
 ## Irene de Closhe
 
-**Noblewoman of the Closhe domain. Not the duke's.**
+**Noblewoman of the Closhe domain. Not the duke's. A second protagonist — but
+only in her own route.**
 
 | | |
 |---|---|
@@ -194,49 +195,79 @@ told.
 | **Reputation** | **Kind and thoughtful** — widely believed |
 | **Standing with the duke** | **His preferred choice of fiancée** |
 | **His proposals** | **She has declined them. Repeatedly. For reasons unknown.** |
-| **Origin** | **Reincarnation of someone who lived in modern Korea** (revealed in chapter 3) |
+| **How the player meets her** | **A side character who seems strangely wary of Seoyun, and is otherwise unremarkable** |
+| **Origin** | **Reincarnation of someone who lived in modern Korea** — Irene's route, chapter 3 |
 | **Her past life** | **A medic**, like Seoyun's former self |
 | **What she remembers of Seoyun** | **The most powerful healer in the country, with status and wealth surpassed by no one** |
 | **What that Seoyun becomes** | **S+ rank. She decimates the kingdom to uninhabitable cinders, then returns to modern Korea.** |
-| **When the player learns this** | Chapter 5 |
+| **When the player learns this** | Chapter 3, and the full shape of it in chapter 5 |
 
-### The reveal (chapter 3)
+**The wariness is the only tell the main game gets.** In every route but hers,
+Irene keeps her distance from the saintess and gives no reason, and the player
+is not invited to wonder. She is kind, she is thoughtful, she is the duke's
+refused fiancée, and that is a complete character. In her route she becomes the
+person who has already watched this story finish.
 
-Irene is not a visitor. She was **born into this body, into this world**, and
-remembers the other one — and she was a **medic** there too, which is the last
-thing Seoyun would expect of a merchant baroness in a high-fantasy kingdom.
+### The reveal (chapter 3, Irene's route only)
 
-She remembers Seoyun as **the most powerful healer in Korea, her status and
-wealth surpassed by no one.** That is not the ordinary, expendable, C-rank
-medic that chapter 1 shows. **The two accounts of Seoyun's life do not agree,
-and the game does not settle it in chapter 3.**
+**None of this reaches the player in any other route.** In the prince route, the
+duke route, and any route that is not hers, Irene is a **side character who
+seems strangely wary of Seoyun and is otherwise unremarkable** — kind,
+thoughtful, the duke's repeatedly-refused fiancée, a merchant's daughter who
+keeps her distance from the saintess. The wariness reads as a manner, not a
+mystery. She reveals nothing, and the player is given no reason to ask.
 
-On first reading it looks like a question of who is wrong, and the possibilities
-are not equivalent:
+**In her route, the same chapter is from her perspective.** Meeting Seoyun
+triggers the recall, and **the player sees the recall and nothing more.**
+
+#### What the player sees
+
+Irene was **born into this body, into this world**, and remembers the other one.
+She was a **medic** in Korea too — a peer, not a saintess and not a rival. And
+she remembers Seoyun as **the most powerful healer in the country, her status
+and wealth surpassed by no one.**
+
+That is not the ordinary, expendable, C-rank medic of chapter 1. **The two
+accounts of the same woman do not agree, and no one in the scene can adjudicate
+between them** — the player is holding both.
+
+On first reading it looks like a question of who is wrong:
 
 - **Seoyun lied in chapter 1** — to the player, to Irene, possibly to herself.
-  The origin wound was a story she told, and the sympathy the player felt was
-  manufactured. This is the strongest version for an evil protagonist.
-- **Irene misremembers**, or remembers a different Seoyun, or a Seoyun from a
-  different part of a very long life.
-- **Both are true** — Irene knew a Seoyun at the top of the country, and
-  something happened that put her at the bottom before the raid.
+- **Irene misremembers**, or remembers a Seoyun from a different part of a long life.
+- **Both are true** — and something happened that put her at the bottom before
+  the raid.
 
-**Chapter 5 dissolves the question rather than answering it.** None of those
-three is the answer, because the frame was wrong: Irene is not describing
-Seoyun's past at all. She is describing where she is going. See the section
-below.
+**Chapter 5 dissolves the question rather than answering it.** The frame was
+wrong: Irene is not describing Seoyun's past at all. She is describing where she
+is going.
 
-**The player should not be able to tell any of this in chapter 3.** Let the
-contradiction sit for two chapters. A reveal resolved in one scene is a twist;
-one that sits is a question each route can answer differently.
+#### Why she cannot simply tell someone
 
-### What it changes
+This is the design hinge, and it is what makes the player-only reveal work
+rather than being an arbitrary withholding device. **Irene cannot tell Seoyun
+what she knows.** A private warning from a merchant baroness to the most powerful
+healer in the kingdom, warning her about monsters and portals, is a confession
+of the impossible — and a saintess is precisely the sort of person nobody
+corrects. The truth reaches the player in the one form that is safe to receive
+it: **a private memory in someone else's head.**
+
+So the player ends up holding information that cannot be spent. They know the
+ending, they are in the room with it starting, and the only person who could act
+on it is being lied to by a woman who is trying to warn her.
+
+#### The constraint on Seoyun
+
+**She must not sense the recall.** If she notices, she asks, and the route becomes
+a confrontation instead of a tragedy. The design depends on the protagonist being
+unavailable to a truth the player is holding.
+
+#### What it changes
 
 Irene is a **peer from a previous life**, which is a relationship the rest of the
 cast cannot have. She is not competing with Seoyun for the prince and not
-in awe of the saintess — she is the one person who knew her before, and who
-remembers her as someone else entirely.
+in awe of the saintess — she is the one person who already met who Seoyun is
+becoming, and did not like the ending.
 
 That cuts two ways, and both should be playable:
 

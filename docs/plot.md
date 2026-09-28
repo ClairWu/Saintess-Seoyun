@@ -85,13 +85,19 @@ thing that answers that: attention, reverence, standing.
 >
 > **Planned shape:**
 >
-> | Ch | Title | Covers |
-> |---|---|---|
-> | 1 | *Seoyun* | The raid, and her arrival in the kingdom |
-> | 2 | | The Temple, the palace, the prince, the duke, Baroness Closhe |
-> | 3 | | Baroness Closhe revealed as a reincarnation; what she remembers |
-> | 4 | | The first trip back to Korea, and the first step toward villainy |
-> | 5 | | The monster wave, the rank readout, and the loop closing |
+> | Ch | Title | Covers | Scope |
+> |---|---|---|---|
+> | 1 | *Seoyun* | The raid, and her arrival in the kingdom | All routes |
+> | 2 | | The Temple, the palace, the prince, the duke, Baroness Closhe | All routes |
+> | 3 | *What Irene Remembers* | Irene's POV; the recall, seen by the player alone | **Irene's route only** |
+> | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
+> | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
+>
+> **Chapters 3 and 5 are player-only and route-specific.** In every other route
+> Baroness Closhe is a wary side character who is otherwise unremarkable, and
+> the player never learns any of this. Only in her route does she become a
+> second protagonist, and only there does the player receive the ending in
+> advance and have to watch it begin.
 >
 > **Two structural spines, running in parallel.**
 >
@@ -103,12 +109,12 @@ thing that answers that: attention, reverence, standing.
 > **The closed loop.** Chapters 3 and 5 are both about the future, and they
 > disagree about who is telling it. Chapter 3 has Irene remember a Seoyun who
 > was already powerful. Chapter 5 reveals that the Seoyun she remembers **is the
-> ending of this story.** The player spends four chapters inside a loop they
-> have already been told about, and only learns that in chapter 5.
+> ending of this story.**
 >
 > This second spine reframes chapter 3 retroactively. The reveal in chapter 3 is
 > not "she was more powerful than she admits." It is **"I have already met the
-> woman you are going to become."**
+> woman you are going to become."** And because it reaches the player rather than
+> Seoyun, the player is the only one who can act on it — and cannot.
 
 ### Chapter 1 — *Seoyun*
 
@@ -223,45 +229,74 @@ cage, the one door out of it, and everyone with an interest in her.
   Otherwise a choice about how much to tell the Temple, or whether to attend the
   palace visit at all.
 
-### Chapter 3 — *What Irene Remembers*
+### Chapter 3 — *What Irene Remembers* (Irene's route only)
 
-**The reveal that reframes chapter 1.** Outline only; beats not written.
+**Not a chapter of the main game. A chapter of one route, and it changes the
+POV.** This is the most significant structural decision in the design so far, so
+it is worth being precise about what it does and what it costs.
 
-- **Setting:** The kingdom, and the Closhe domain.
-- **Cast:** Seoyun and Baroness Irene de Closhe. The scene should be mostly these
-  two.
-- **The reveal, in the order given:**
-  1. **Baroness Closhe is a reincarnation of someone who lived in modern Korea.**
-     Not a visitor — she was born into this body, into this world, and remembers
-     the other one.
-  2. **She was a medic in Korea too.** A peer of Seoyun's former self, not a
-     saintess and not a rival. This is the last thing Seoyun would expect.
-  3. **She remembers Seoyun as the most powerful healer in the country**, with
-     status and wealth surpassed by no one — **not** the ordinary, expendable,
-     C-rank medic that chapter 1 described.
-- **Turn:** The protagonist the player has been following is a version, and
-  someone else met the original.
-- **The load-bearing question:** who is wrong?
-  - **Seoyun lied in chapter 1** — to the player, to Irene, possibly to herself.
-    The whole origin wound is a story she tells. This is the strongest version
-    for an evil protagonist, because it means the sympathy the player felt in
-    chapter 1 was manufactured.
-  - **Irene misremembers**, or remembers a different Seoyun, or a Seoyun from a
-    different part of a long life.
-  - **Both are true** — Irene knew a Seoyun at the top, and something happened
-    that put her at the bottom before the raid.
-- **Note:** Whichever it is, **the player must not be able to tell immediately
-  which.** Let the contradiction sit for two chapters. A reveal the player can
-  resolve in one scene is a twist; one that sits is a question the routes can
-  each answer differently.
+#### The shape
 
-- **The retroactive reframe (only legible after chapter 5):** chapter 3 does not
-  turn out to be about Seoyun's *past*. Irene is describing her *future*. See
-  [chapter 5](#chapter-5--the-cinders). **Do not write chapter 3 as though the
-  player should be able to tell this.** It should be genuinely unreadable at the
-  time, and only reassemble in hindsight — the reader who goes back will find
-  that Irene's every line in chapter 3 was in the present tense about the
-  person Seoyun is becoming.
+- In the **main game**, Irene is a **side character who seems strangely wary of
+  Seoyun**, and is otherwise unremarkable. She is kind, thoughtful, a merchant's
+  daughter, the duke's repeatedly-refused fiancée. That is all the player gets.
+  She does not reveal anything, and the wariness reads as a character note
+  rather than a mystery — a woman who keeps her distance from the saintess.
+- In **Irene's route**, the same chapter plays from **her** perspective. Meeting
+  Seoyun causes her to **recall her meeting with Seoyun in her past life**, and
+  **the player sees that recall and nothing else.** Seoyun, from the outside,
+  looks unremarkable to her again.
+
+#### The asymmetry, and why it is the right choice
+
+**Everything in chapters 3 and 5 is player-only.** Irene knows the loop. Seoyun
+does not. The player learns the ending from a character who cannot act on it
+without revealing herself, and Seoyun is standing right there being ordinary.
+
+This resolves the problem I flagged two turns ago, which was that a reveal the
+player can resolve in one scene is a twist rather than a question. **Irene
+cannot simply tell Seoyun what she knows.** Doing so would expose her as a
+reincarnation to the most powerful being in the kingdom, and a saintess who
+cannot be contradicted is exactly the sort of person you do not correct. So the
+player is given the truth in the one form that is safe to receive it: a private
+memory in someone else's head.
+
+**It also inverts the complicity design.** The player is used to being
+complicit — watching Seoyun open doors and choosing to keep them open. Here the
+player is *not* in on it with Seoyun, and that is the horror. The player is
+holding the only copy of the truth and has to watch someone walk toward it.
+
+#### Beats, in order
+
+1. **Irene meets the saintess.** Seoyun, in Irene's eyes, is **unremarkable** —
+   a foreign woman with healing hands and a title she did not ask for. The wariness
+   the main-game player saw is the visible edge of something much larger.
+2. **The recall.** Contact with Seoyun triggers the memory of the other meeting:
+   Korea, two medics, **a Seoyun at the top of the country with status and wealth
+   surpassed by no one** — the woman the player met in chapter 1 as ordinary,
+   expendable, and C-rank.
+3. **The player has to hold both.** Same person, same chapter, two readings, and
+   **no one in the scene can adjudicate between them.**
+
+#### The constraint
+
+**Do not let Seoyun sense the recall.** If she notices, she asks, and the route
+turns into a confrontation. The whole design depends on the player holding a
+truth that the protagonist cannot hear.
+
+#### What this costs, honestly
+
+- **The player learns the ending without being able to stop it.** That is the
+  intended effect, but it is a knife-edge, and it will only work if the player
+  is made to want to warn her first. If the player feels merely trapped, the
+  route reads as a punishment for picking Irene.
+- **Irene becomes a different character per route**, which is a writing cost.
+  In three routes she is a wary side character; in one she is carrying the
+  apocalypse alone and has been for a long time. The writing has to be good
+  enough to survive both.
+- **It makes the routes structurally uneven.** The other three cannot have this,
+  because the loop only touches Irene. Worth accepting rather than trying to
+  build equivalents for the prince and the duke.
 
 ### Chapter 4 — *The First Trip Back*
 
@@ -299,10 +334,10 @@ Either branch ends the chapter with her back in the kingdom, more powerful, and
 one world already worse off. **The branch decides what the player is, not what
 happens next** — the plot continues either way, and neither choice is reversible.
 
-### Chapter 5 — *The Cinders*
+### Chapter 5 — *The Cinders* (Irene's route only)
 
-**The loop closes.** The player learns they have been inside it since chapter 3.
-Outline only; beats not written.
+**The loop closes.** Also route-specific, for the same reason as chapter 3: it
+depends on a reveal only the player has. Outline only; beats not written.
 
 - **Setting:** The kingdom. The wave has arrived.
 - **Cast:** Seoyun, the crown prince, Baroness Closhe, the Temple, and the
@@ -315,52 +350,61 @@ Outline only; beats not written.
      in her hand since chapter 1. Small, mechanical, and the most frightening
      thing in the chapter, because it means **the thing that is measuring her
      approves.**
-  3. **The truth about chapter 3.** The Seoyun Irene remembered — the most
-     powerful healer in Korea, status and wealth surpassed by no one — is not a
-     rival version of her or a version she lied about. **It is where she is
-     going.** Irene knew the *future* Seoyun: the one who crossed back and forth
-     until she reached **S+ rank**, who **decimated the kingdom to uninhabitable
-     cinders**, and who then **went back to modern Korea.**
-- **Turn:** The player has been inside a loop they were told about in chapter 3
-  and did not recognise. The woman Irene was describing is the woman she is
+  3. **The truth the player has been carrying since chapter 3.** The Seoyun
+     Irene remembered is not a rival version of her, or one she lied about.
+     **It is where she is going.** Irene's memory is a *future* Seoyun: the one
+     who crossed back and forth until she reached **S+ rank**, who **decimated
+     the kingdom to uninhabitable cinders**, and who then **went back to modern
+     Korea.**
+- **Turn:** The player has known since chapter 3 and could not act on it. Now
+  they watch it begin. The woman Irene was describing is the woman she is
   currently becoming, and the monster wave is not the climax — it is chapter
   four of a plan already completed once.
+- **The unspeakable beat.** The player knows and Seoyun does not, and now they
+  are in the same room. **Irene cannot say it** — a private warning to the most
+  powerful healer in the kingdom is a confession of something impossible, and
+  Seoyun is a woman nobody corrects. So the player watches Irene decide how to
+  go on warning her, and watches Seoyun not hear it. This is the scene the whole
+  route is built to produce.
 
 #### What this does to the whole game
 
 **Baroness Closhe and Seoyun are both talking about the future, and neither of
-them knows it.** Irene believes she is describing a past life. Seoyun believes
-she is describing her own history. The player believed both. All three are
-wrong in the same direction.
+them knows it.** Irene believes she is recalling a past life. Seoyun believes
+she is hearing her own history. The player knew from chapter 3. All three are
+wrong in the same direction, and only one of them had the information.
 
-Three consequences worth designing toward:
+Because this is player-only, the main game never contains it. That means:
 
-- **The routes are now counterfactuals.** A route is a way of answering a
-  question the player did not know they were asking: *does the loop have to
-  close?* Irene has already watched it close. The routes are the player's
-  chance to break it, and the story's real subject is whether an S+ Seoyun is
-  inevitable once the phone starts counting.
+- **The other three routes do not know the ending exists.** A prince-route player
+  is not withholding the truth; they never had it. This keeps the routes from
+  being a graded difficulty tier, which is what would happen if all four had the
+  reveal.
+- **Irene's route is the only one that can end differently** — and only because
+  the player has been given a reason to try. The story's real subject becomes
+  whether an S+ Seoyun is inevitable once the phone starts counting.
 - **The monster wave is a symptom, not the disaster.** The wave is what chapter
-  4 cost. The cinders are what the rest of the game costs. The player who
-  mistakes the wave for the ending has not understood the shape.
-- **Irene's refusal of the duke resolves here.** She declined a man who was
-  about to fight a war that ends in cinders, and she declined because she
-  remembered how it finished. **The most interesting thing about her is now a
-  thing she has been carrying alone**, and the story's cruelest question is
-  whether she ever tells the prince, or whether she lets him walk into the
-  future she has already seen.
+  4 cost. The cinders are what the rest of the game costs. A player who mistakes
+  the wave for the ending has not understood the shape.
+- **Irene's refusal of the duke resolves.** She declined a man who was about to
+  fight a war that ends in cinders, because she remembered how it finished. The
+  story's cruelest question is whether she ever tells the prince, or lets him
+  walk into a future she has already watched once.
 
 #### Open questions
 
-- **Does Seoyun remember anything?** If chapter 5's reveal lands hardest when
-  Seoyun has no memory of the cinders and Irene does, that is the shape to
-  build toward. See the note in [characters.md](characters.md).
 - **What is Irene's endgame?** She knows how it ends and has declined to
   intervene in the one way available to her — refusing a proposal. Is she
-  waiting for a better opening, protecting someone, or resigned?
-- **Is the cinders ending escapable, and who knows it is?** If only Irene knows,
-  she is the only route to an ending that is not cinders. That may be the
-  strongest reason for the player to want to talk to her.
+  waiting for a better opening, protecting someone, or resigned? This is now the
+  most important open question in the cast, because she is the only character
+  who can produce an ending that is not cinders.
+- **How does the route end?** Options worth considering: Irene speaks and is
+  believed; Irene speaks and is not; she never speaks and the loop closes; the
+  player gets a choice she has no standing to make.
+- **What does Seoyun do in the scenes where the player knows?** She cannot react
+  to information she has not been given, so her dialogue has to remain legible
+  to a player who is carrying the prophecy and unable to spend it. That is a
+  demanding voice to write, and it is the route's real craft problem.
 
 ---
 
@@ -368,20 +412,20 @@ Three consequences worth designing toward:
 
 Provisional, and worth revisiting once the route structure is decided.
 
-| Arc | Opens | Question it answers |
-|---|---|---|
-| **The mask** | Ch1 Act 2 | How long can she be worshipped as something she isn't? |
-| **The cage** | Ch2 | The Temple is beautiful, cold, and watched. When does she need to get out? |
-| **The prince** | Ch2 | What does she owe someone who loves a role she is playing? |
-| **Irene's refusal** | Ch2 | Why has she declined the duke? And who else can see what is coming? |
-| **The two accounts** | Ch3 | Whose Seoyun is real — hers, or the one Irene worked beside? |
-| **The door** | Ch4 | How many breaches before someone counts them? |
-| **The wave** | Ch5 | What the chapter 4 crossing actually cost. |
-| **The loop** | Ch5 | She has been inside it since chapter 3. Does it have to close? |
-| **The duke's return** | Ch4 or 5 | The most noble man in the kingdom comes home from fighting a war he does not know is already lost. |
-| **Korea** | Ch4 | Will the alliance find her, and what happens when they do? |
-| **The cinders** | Late | S+ rank, an uninhabitable kingdom, and a return to Korea. Can the loop be broken? |
-| **Irene's burden** | Ch5 onward | She has seen the ending. Why has she never said so? |
+| Arc | Opens | Scope | Question it answers |
+|---|---|---|---|
+| **The mask** | Ch1 Act 2 | All | How long can she be worshipped as something she isn't? |
+| **The cage** | Ch2 | All | The Temple is beautiful, cold, and watched. When does she need to get out? |
+| **The prince** | Ch2 | Prince | What does she owe someone who loves a role she is playing? |
+| **Irene's refusal** | Ch2 | All, as a character note | Why has she declined the duke? |
+| **The door** | Ch4 | All | How many breaches before someone counts them? |
+| **Korea** | Ch4 | All | Will the alliance find her, and what happens when they do? |
+| **The two accounts** | Ch3 | **Irene** | Whose Seoyun is real — hers, or the one Irene knew? |
+| **The wave** | Ch5 | **Irene** | What the chapter 4 crossing actually cost. |
+| **The loop** | Ch5 | **Irene** | The player has known since chapter 3. Does it have to close? |
+| **Irene's burden** | Ch3 onward | **Irene** | She has seen the ending. Why has she never said so? |
+| **The duke's return** | Ch4 or 5 | All | The most noble man in the kingdom comes home from fighting a war he does not know is already lost. |
+| **The cinders** | Late | **Irene** | S+ rank, an uninhabitable kingdom, and a return to Korea. Can the loop be broken? |
 
 The Temple and the palace are worth treating as an arc rather than a backdrop,
 because they are the two halves of her problem. The **Temple** is the cage she
