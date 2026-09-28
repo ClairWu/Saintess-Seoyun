@@ -100,10 +100,11 @@ thing that answers that: attention, reverence, standing.
 > | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
 > | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
 >
-> **Chapters 3 and 5 are player-only and route-specific, and so is the duke's
-> POV chapter.** In every other route Baroness Closhe is a wary side character who
-> is otherwise unremarkable, and the player learns nothing of the inner lives.
-> Two routes turn the camera on someone who knows what Seoyun is.
+> **Each of the three inner chapters is player-only and route-specific.** In the
+> main game the player follows Seoyun and knows only what she knows. One route
+> turns the camera on someone who *knows* what she is (Irene), one on someone
+> who *knows and is already her enemy* (the duke), one on someone who *knows
+> nothing and is in love with her* (the prince).
 >
 > **Three structural spines, running in parallel.**
 >
@@ -122,10 +123,18 @@ thing that answers that: attention, reverence, standing.
 > woman you are going to become."** And because it reaches the player rather than
 > Seoyun, the player is the only one who can act on it — and cannot.
 >
-> **The two kinds of route.** Irene's route gives the player a prophet who cannot
-> speak. The duke's route gives the player a man who already has every reason to
-> disbelieve her, and is proven right. **Neither of them is a route where Seoyun
-> wins the person.** Only the prince's is.
+> **The three kinds of route, and the one thing they share.**
+>
+> - **Irene** — a prophet who knows the ending and cannot speak it.
+> - **The duke** — a man who remembers being betrayed by her, and is proven right.
+> - **The prince** — a man who knows nothing, believes everything, and has to
+>   choose between his love and his duty.
+>
+> **Only the prince's route is one Seoyun wins the person on.** And it is the
+> only route where the person she wins is the one who ends up having to **kill
+> her.** The other two ask what she gets away with. This one asks whether
+> someone who loves her will do it, and that is the only version of the ending
+> where the mask and the romance survive each other.
 
 ---
 
@@ -151,6 +160,20 @@ there is anything to stop.
 means to an end; the status *is* the end. Everything she does reads as
 instrumental only if you assume she wants something else. She does not. The
 kingdom is the sacrifice.
+
+### The shape of the three endings
+
+| Route | POV | What the player knows | What it costs the player |
+|---|---|---|---|
+| **Irene** | Hers | The ending, in advance, unusable | The knowledge that they could not spend |
+| **The duke** | His | That she has done this before | Watching her do it again, to a man who is ready |
+| **The prince** | His | Nothing, until it happens | **Having to watch the person they wanted choose, and then not choose them** |
+
+**The prince's route is the only one where Seoyun gets what she came for and it
+still ends badly.** She is loved. She is believed. She is the saintess, in a
+palace, with a prince who would give her anything — and the cost of all of it is
+that **the man who loves her is the one who has to stop her.** The other two
+routes are about exposure. This one is about a choice somebody has to make.
 
 ### Chapter 1 — *Seoyun*
 

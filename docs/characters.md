@@ -135,25 +135,57 @@ means **she is the only one in the palace who knows what she is doing while he i
 already in love.** She is not deceiving a stranger. She is letting a good man
 believe something she knows to be false, and she keeps letting him.
 
-### What the prince is, structurally
+**He is also a great swordsman who is heir to the throne.** Seoyun is building a
+power structure and she is inside a palace with the two men best placed to stop
+her, one of whom loves her and one of whom is a swordsman. Worth deciding how
+much of that she has noticed.
 
-The prince is the **only one of the three men who has no information at all** —
-no past life, no suspicion, no knowledge of any other life. He wants the same
-thing as the duke, to save the kingdom, and he has **no idea there is anything
-to stop.**
+### His route (POV)
 
-**He is in love with Seoyun, and it is unfortunate rather than ironic.** He is
-not fooled by her; he is drawn to her. That is the difference from the duke,
-and it is why he is the hardest case. The duke's route is about a man who
-already knows; the prince's is about a man who would believe her.
+**The prince's chapter is told from his point of view, and it is the only route
+where Seoyun wins the person.**
 
-### Open question
+He begins **infatuated with the saintess**, and he wants to believe they can live
+happily ever after. Not strategically, not as a plan — he actually believes it,
+and the route is the story of him being wrong.
 
-Does he ever learn? He is intelligent, which is a problem for the mask. He is
-also the only character who would have no reason to suspect, so the suspicion
-would have to be manufactured — and the story may not want to manufacture it.
-The prince's route may be the one in which Seoyun is never exposed, and the
-tragedy is that a good man walks into the ending with his eyes open and happy.
+As events transpire, he is **forced to accept that the person he loved, and put
+his faith in, may be someone he needs to cut down for the sake of his duty.**
+
+That sentence is the whole route, and the ordering in it is the point. **The
+faith comes first and the duty second, and he has to keep both long enough to
+be destroyed by the collision.** He does not choose between love and kingdom
+early. He carries the saintess in one hand and the crown in the other and only
+finds out he cannot hold both when the wave arrives.
+
+**This is the hardest version of the ending for the protagonist, and the only
+one where she is loved at the moment it happens.** Irene's route asks what she
+gets away with. The duke's asks whether she can use a man who is already her
+enemy. The prince's asks whether the man she deceived will kill her for it — and
+he is the only one who might genuinely not, until he does.
+
+**The structural cruelty:** he is the only character with no information, so
+everything he learns, he learns from watching her. There is no prophet to warn
+him, no past life to suspect, and no duke to tell him. He arrives at the truth
+alone and from evidence, and by the time he is sure, he is also the only person
+in the kingdom with the authority to act on it. **Being the last to know makes
+him the one who has to decide.**
+
+### Open questions
+
+- **Does the ending stay ambiguous?** The route as described has him *needing*
+  to cut her down, not doing it. A version where he never has to decide is
+  possible, and the question is whether the story wants a man to have killed the
+  woman he loved, or a man who loved her enough to be prepared. The first is
+  tragic; the second is almost worse.
+- **Does Seoyun know what she is walking into?** She is the only one who does
+  not know the loop is coming, but the prince is the only one who could kill her.
+  Whether she ever considers that he is heir to a throne that commands a great
+  swordsman is a question worth asking, given how deliberate the rest of her
+  planning is.
+- **Is the route winnable?** If the loop can be broken, the prince's route is
+  the one where the player might break it — not because anyone told them, but
+  because they are watching it happen to a good man.
 
 ---
 
