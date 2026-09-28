@@ -95,7 +95,7 @@ thing that answers that: attention, reverence, standing.
 > | Ch | Title | Covers | Scope |
 > |---|---|---|---|
 > | 1 | *Seoyun* | The raid, and her arrival in the kingdom | All routes |
-> | 2 | | The Temple, the palace, the prince, the duke, Baroness Closhe | All routes |
+> | 2 | *The Ball* | The Temple, the palace, the prince, the baroness — and the route split | All routes |
 > | 3 | *What Irene Remembers* | Irene's POV; the recall, seen by the player alone | **Irene's route only** |
 > | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
 > | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
@@ -160,6 +160,84 @@ there is anything to stop.
 means to an end; the status *is* the end. Everything she does reads as
 instrumental only if you assume she wants something else. She does not. The
 kingdom is the sacrifice.
+
+### The route split (end of chapter 2)
+
+**The player chooses the route in chapter 2, at the ball, and the choice is
+purely social.** This is the single most important mechanical decision in the
+game and it is worth being precise about.
+
+**The setup.** Seoyun has been at the Temple — the beautiful, cold, closely
+supervised cage — where she learns their religion, serves as a role model, and
+blesses the people who need it. Then she **leaves it for a debutante ball at the
+imperial palace**, which **the prince hosted in order to introduce her to the
+populace.** This is her one unobserved night, sanctioned by the temple, in the
+one room in the kingdom where nobody is watching her.
+
+**The split.** The player chooses what Seoyun does with the evening, and the
+choice is a movement, not a conversation:
+
+| The player… | Gets | Because |
+|---|---|---|
+| **Follows the prince to dance** | **The prince's route** | She chooses the warmth, the attention, and the person who loves her |
+| **Approaches Baroness Closhe to chat** | **Irene's route** | She chooses the one person who might be useful, or might know her |
+| **Stands alone at the banquet table for a while** | **The duke's route** | She chooses nobody |
+
+**Three social moves, and they map exactly onto the three things she wants.**
+The dance is intimacy, the conversation is information, and standing alone is
+autonomy. The player is picking a relationship to power without being told any of
+that is what they are doing.
+
+#### Why standing alone gives the duke
+
+This is the one that is easy to get wrong, and it is the best of the three.
+
+The duke is **away on his mission**, so he is not at the ball. The player does
+not approach him, cannot approach him, and does not know yet that he exists as
+anything other than a name. **The duke's route is the one the player arrives at by
+declining both of the people who are there.**
+
+That is thematically exact. The woman who has already promised a kingdom mages
+and brought monsters, and who promised a duke Korea and kept him, chooses the
+one thing nobody offered her: **to be left alone with the ability to act.** Her
+drive has been stated as a preference for exactly this — freedom, safety, power,
+none of which is on offer anywhere — and the route where she is most herself is
+the one about the man she betrayed worst.
+
+**The player should not be able to connect the two on first playthrough.** The
+duke's absence is a scheduling fact. The resonance only appears afterwards, and
+it is the reason the branch cannot be labelled for what it is.
+
+#### Why this split is better than a menu
+
+- **It happens once, in the middle, and it cannot be revisited.** One decision,
+  one consequence, no reload-and-try for a better outcome.
+- **It is a choice of *who to be*, and it is legible to the player immediately**
+  even though it is not what it means. Nobody has to explain that "standing
+  alone" is an answer about power.
+- **It puts the route choice in the one room where Seoyun is unsupervised**, so
+  the split is the first time the player sees her behave according to her own
+  logic rather than the mask's. Chapter 1 and 2 are the mask; the ball is her.
+- **The prince hosting the ball is load-bearing.** He is the one who put the
+  saintess in front of his people, and one of the options is to go with him into
+  it. She spends an evening he arranged on his own wishes — which is also, not
+  coincidentally, the evening she walks away from a kingdom of people who came
+  out for her.
+
+#### Open questions
+
+- **Does Seoyun know what she is choosing?** She has a plan and she is capable of
+  calculation. If she registers that standing alone is the choice that keeps her
+  options open, the branch reads as strategy rather than temperament. If she
+  simply prefers solitude, it reads as character. Both are defensible; they are
+  different women.
+- **Is the duke's branch available to a player who has not noticed the duke?**
+  It has to be, or it is not a choice. But the player is making it without
+  knowing what they are picking, which is the point and also a risk.
+- **What if the player refuses to choose?** Not currently designed. A fourth
+  option — leaving the ball, or staying with the priests — would be a fourth
+  route or a bad ending, and either is a real design decision rather than an
+  oversight.
 
 ### The shape of the three endings
 
@@ -246,47 +324,50 @@ give up.
 - **Do not have her heal someone and then do something monstrous to them.** The
   mask is structural, not a betrayal of a specific person.
 
-### Chapter 2 — *TBD*
+### Chapter 2 — *The Ball*
 
-**Introduces the two settings and the four people who will define the game.** The
-cage, the one door out of it, and everyone with an interest in her.
+**The Temple, the palace, the three people who will define the game, and the
+split.** The only shared chapter, and the one that has to do the most.
 
-- **Setting:** The **Temple** (beautiful, cold, closely supervised) and the
-  **imperial palace** (rare visits, on temple business, no oversight).
-- **Cast:** Seoyun, the **crown prince**, the **duke**, **Baroness Irene de
-  Closhe**, and the Temple priests.
+- **Setting:** The **Temple** — beautiful, cold, closely supervised, and her
+  life — then the **imperial palace**, for the debutante ball.
+- **Cast:** Seoyun, the **crown prince**, **Baroness Irene de Closhe**, the
+  Temple priests, and the court. **The duke is absent**, on his mission.
 - **Beats:**
-  - **The Temple takes custody of her.** She is to learn their religion, serve
-    as a role model to the people, and bless those who need it. The priests are
-    on her constantly, her comings and goings are governed, and she has no
-    privacy. This is her life now: a cage with excellent architecture.
-  - **The palace, on temple business.** Her rare trip out. Without the priests
-    she is **more free than she has been since she arrived** — and this is also
-    the only place she could use the phone unseen.
-  - **The crown prince.** Polite, handsome, typically blonde and blue-eyed,
-    intelligent, and a great swordsman. He **dotes on her more than strictly
-    professionally**, and she feels she **might even fall in love.** He begins
-    falling quickly — before she has decided anything, which means she is the
-    only one who knows what she is doing while he is already in love.
-  - **The duke.** The most noble man in the kingdom after the prince — and away
-    on a mission, fighting the wave. He may be discussed here or arrive in
-    person; the outline should not assume. Either way, **nobody in the kingdom
-    connects the monsters to the woman who arrived the same week.**
+  - **The Temple takes custody of her.** She learns their religion, serves as a
+    role model, and blesses those who need it. The priests are on her
+    constantly, her comings and goings are governed, she has no privacy, and she
+    cannot use the phone unseen. A cage with excellent architecture.
+  - **The prince has hosted a ball to introduce her to the populace.** He put
+    the saintess in front of his people, in the one room where nobody watches
+    her. She is granted the evening by the Temple, which does not follow her.
+  - **The prince.** Polite, typically blonde and blue-eyed, intelligent, and a
+    great swordsman. He **dotes on her more than strictly professionally**, and
+    he began falling before she had decided anything — so she is the only one
+    who knows what she is doing while he is already in love.
   - **Baroness Closhe.** Kind and thoughtful, of the merchant family, and
     **widely expected to marry the duke — a man she has declined repeatedly, for
-    reasons nobody knows.** A merchant's daughter among soldiers and priests, in
-    a kingdom about to become militarised. Her attention is the observant kind.
-- **Turn:** She is installed, contained, and courted. Every one of those is a
-  different kind of cage, and she can feel all of them.
+    reasons nobody knows.** In the main game she is a wary side character and
+    gives nothing away.
+  - **The duke is discussed, not seen.** The most noble man in the kingdom after
+    the prince, away fighting the wave she brought. **Nobody in the kingdom
+    connects the monsters to the woman who arrived the same week.**
+- **Turn:** She is installed, contained, and courted, and then given one evening
+  in the one room where she is unsupervised — and the player spends it.
+- **The split:** at the ball, the player chooses. Dance with the prince, approach
+  the baroness, or stand alone at the banquet table. See
+  [the route split](#the-route-split-end-of-chapter-2) above.
 - **Note:** The ambivalence here is **morally neutral** and should read that
   way. She wants freedom, safety, and power, and none of the three is on offer
   anywhere. She is not planning to betray anyone. She has a preference for being
   left alone with the ability to act, and the story's job is to keep that
   preference looking reasonable until it is not. **Chapter 4 only lands because of
   this chapter** — she needs something to be setting aside.
-- **Choices / Endings touched:** Route opening, if routes open this early.
-  Otherwise a choice about how much to tell the Temple, or whether to attend the
-  palace visit at all.
+- **Note on the ball as the split's location:** it is the only moment where the
+  player's choice is pure social behaviour, and it comes after the chapter in
+  which Seoyun is most observed. The mask is worn through the Temple and the
+  arrival; **the ball is the first time the player sees her act on her own
+  logic.**
 
 ### Chapter 3 — *What Irene Remembers* (Irene's route only)
 
