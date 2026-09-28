@@ -97,8 +97,9 @@ thing that answers that: attention, reverence, standing.
 > | 1 | *Seoyun* | The raid, and her arrival in the kingdom | All routes |
 > | 2 | *The Ball* | The Temple, the palace, Jace, the baroness — and the route split | All routes |
 > | 3 | *What Irene Remembers* | Irene's POV; the recall, seen by the player alone | **Irene's route only** |
-> | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
+> | 4 | *The First Trip Back* | The first trip to Korea; POV returns to Seoyun | All routes |
 > | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
+> | 6 | *The Vow* | The two endings — relationships held, or the need reasserting itself | All routes |
 >
 > **Each of the three inner chapters is player-only and route-specific.** In the
 > main game the player follows Seoyun and knows only what she knows. One route
@@ -241,17 +242,40 @@ it is the reason the branch cannot be labelled for what it is.
 
 ### The shape of the three endings
 
-| Route | POV | What the player knows | What it costs the player |
-|---|---|---|---|
-| **Irene** | Hers | The ending, in advance, unusable | The knowledge that they could not spend |
-| **Ciel** | His | That she has done this before | Watching her do it again, to a man who is ready |
-| **Jace** | His | Nothing, until it happens | **Having to watch the person they wanted choose, and then not choose them** |
+**Two axes, not one.** The route chosen at the ball sets the scene. The
+relationships the player builds afterwards decide which ending happens.
 
-**Jace's route is the only one where Seoyun gets what she came for and it still
-ends badly.** She is loved. She is believed. She is the saintess, in a palace,
+| | | |
+|---|---|---|
+| **Route** (ch2) | **POV** (ch3) | What the player knows, and what it costs |
+|---|---|---|
+| **Irene** | Hers | The ending, in advance, unusable |
+| **Ciel** | His | That she has done this before, and is proven right |
+| **Jace** | His | Nothing, until it happens — **and then has to act** |
+
+Then, in chapter 6, over the top of whichever route:
+
+| Player behaviour | Ending |
+|---|---|
+| **Built relationships** | **Good.** The vow holds. The cinders do not come. |
+| **Did not** | **Bad.** The origin wound completes, the need returns, and she goes for S+. |
+
+**The route does not determine the ending. The player's company does.** All
+three routes can reach either ending, which is what keeps the chapter 2 choice
+from being a commitment to a tone.
+
+**Jace's route is the one where Seoyun gets what she came for and still faces the
+worst decision.** She is loved. She is believed. She is the saintess, in a palace,
 with a prince who would give her anything — and the cost of all of it is that
 **the man who loves her is the one who has to stop her.** The other two routes
 are about exposure. This one is about a choice somebody has to make.
+
+**Note that this cuts across the chapter 6 branch.** Jace is the route where
+Seoyun is most likely to have built relationships, and also the one where the
+good ending is hardest — because a man who loves her may have to decide whether
+to kill her even when she is not the threat the loop predicted. Worth deciding
+whether the good ending is *harder* to reach in his route than in the others, or
+simply different.
 
 ### Chapter 1 — *Seoyun*
 
@@ -379,7 +403,7 @@ it is worth being precise about what it does and what it costs.
 
 - In the **main game**, Irene is a **side character who seems strangely wary of
   Seoyun**, and is otherwise unremarkable. She is kind, thoughtful, a merchant's
-  daughter, Ciel's repeatedly-refused fiancée. That is all the player gets.
+  daughter, and repeatedly refused Ciel's proposals. That is all the player gets.
   She does not reveal anything, and the wariness reads as a character note
   rather than a mystery — a woman who keeps her distance from the saintess.
 - In **Irene's route**, the same chapter plays from **her** perspective. Meeting
@@ -445,10 +469,18 @@ truth that the protagonist cannot hear.
 
 ### Chapter 4 — *The First Trip Back*
 
-**The first step toward villainy, made without understanding it.** Outline only.
+**The first step toward villainy, made without understanding it.** POV returns to
+**Seoyun** after the route-specific chapter 3, and stays with her for the rest of
+the game. Outline only.
 
 - **Setting:** Modern Korea, and the return to the kingdom.
 - **Cast:** Seoyun. The alliance, and whoever is still alive from the raid.
+- **POV note:** chapter 3 is the route's interlude. Chapter 4 cuts back to
+  Seoyun, which means the player **loses whatever the route POV gave them** —
+  the prophet's knowledge in Irene's route, the remembered betrayal in Ciel's,
+  the faith in Jace's. What the player keeps is the experience, not the
+  information. Worth deciding deliberately whether the player retains it
+  somewhere.
 - **Beats:**
   - She has learned enough to know the phone is a **door she controls**, in both
     directions — and that crossing makes her stronger. The between is thick with
@@ -551,6 +583,80 @@ Because this is player-only, the main game never contains it. That means:
   to a player who is carrying the prophecy and unable to spend it. That is a
   demanding voice to write, and it is the route's real craft problem.
 
+### Chapter 6 — *The Vow*
+
+**Two endings, decided by what the player built in her new world.** The route
+chosen in chapter 2 sets the scene; the choices made through chapters 4 and 5
+decide which ending the player gets. Outline only.
+
+- **Setting:** The kingdom, after the wave. The Temple, whatever is left of it,
+  and the palace.
+- **Cast:** Seoyun, and whoever in the cast the player has a relationship with.
+
+#### The pivot: she vows not to return
+
+**Seoyun vows not to return, because of the consequences.** She has now seen what
+the door costs, and the vow is the first genuinely good decision she makes. It
+should be given real weight — the player should feel that she has grown.
+
+**And the vow is not enough on its own, because the vow is about power and the
+condition for the good ending is about company.**
+
+#### The branch
+
+| | **Good ending** | **Bad ending** |
+|---|---|---|
+| **What the player did** | Chose the options that **build relationships** in her new world | Did not |
+| **What Seoyun has** | People. Someone in the Temple, someone at court, someone who would notice her absence | Nobody |
+| **Why the vow holds** | She has something to lose, and something that would come looking | Nothing to lose, and no one who would notice |
+| **The cinders** | Do not come | Come |
+
+**The bad ending is the origin wound completing.** This is the mechanic to
+protect: **when the player has not built relationships, Seoyun re-experiences
+being unable to protect herself when she is completely alone** — the same
+helplessness as the failed raid, the moment she felt smallest and most abandoned.
+**That re-experience regenerates her need for power, and she turns again toward
+destroying the kingdom and reaching S+.**
+
+So the bad ending is not a punishment the game inflicts on a player who was
+careless. **It is the loop, and the player's choices are what fed it.** The
+origin wound is the engine of the whole story, and the good ending is the only
+thing that ever addresses it. Nothing else in the game can.
+
+#### Why this is the right shape for the theme
+
+Seoyun's drive has always been **compensation** — become the most powerful
+because of the moment she was smallest. Chapter 6 offers the two things that
+could answer that need:
+
+- **Power**, which is what she has been choosing, and which cannot answer it,
+  because the moment of feeling small would still be there and she would simply
+  be more able to end whatever caused it.
+- **People**, which is what the player's choices build, and which can — because
+  being known by someone is the specific experience her origin wound denies her.
+  She was expendable in Korea. Being missed is the direct inverse.
+
+**A vow alone is a promise about power. A vow made while people would come
+looking is a promise about something else.** That is the difference the branch is
+testing, and it is why the route chosen in chapter 2 does not settle it.
+
+#### Open questions
+
+- **What does "not return" mean exactly?** Not return to Korea, or not return to
+  the Temple, or stop crossing? Each produces a different good ending — a
+  hermit's ending, an exile's, or a king's.
+- **Is the good ending the same in all three routes?** Jace's has a man who may
+  have to kill her, Ciel's has a man who will, and Irene's has a woman who
+  already knows. A good ending that reads identically in all three would waste
+  the routes.
+- **Does Seoyun understand why the vow held?** The most interesting version is
+  that she does not — that she believes it was her own resolve, and the player
+  knows it was the people she left behind. That gives the player the last word on
+  who saved her.
+- **How is the bad ending signposted without being a punishment?** The player
+  should be able to feel it coming from the moment she is alone in it, so that
+  the ending reads as tragedy rather than as a failed check.
+
 ---
 
 ## Where the arcs are
@@ -571,6 +677,8 @@ Provisional, and worth revisiting once the route structure is decided.
 | **Irene's burden** | Ch3 onward | **Irene** | She has seen the ending. Why has she never said so? |
 | **Ciel's return** | Ch4 or 5 | All | The most noble man in the kingdom comes home from fighting a war he does not know is already lost. |
 | **The cinders** | Late | **Irene** | S+ rank, an uninhabitable kingdom, and a return to Korea. Can the loop be broken? |
+| **The vow** | Ch6 | All | She resolves not to return — to what, and does she keep it? |
+| **What she is protected by** | Ch6 | All | Relationships held, or the absolute aloneness that regenerates the need |
 
 The Temple and the palace are worth treating as an arc rather than a backdrop,
 because they are the two halves of her problem. The **Temple** is the cage she
