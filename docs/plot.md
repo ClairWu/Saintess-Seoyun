@@ -95,7 +95,7 @@ thing that answers that: attention, reverence, standing.
 > | Ch | Title | Covers | Scope |
 > |---|---|---|---|
 > | 1 | *Seoyun* | The raid, and her arrival in the kingdom | All routes |
-> | 2 | *The Ball* | The Temple, the palace, the prince, the baroness — and the route split | All routes |
+> | 2 | *The Ball* | The Temple, the palace, Jace, the baroness — and the route split | All routes |
 > | 3 | *What Irene Remembers* | Irene's POV; the recall, seen by the player alone | **Irene's route only** |
 > | 4 | *The First Trip Back* | The first trip to Korea, and the first step toward villainy | All routes |
 > | 5 | *The Cinders* | The wave, the C+ readout, and the loop closing | **Irene's route only** |
@@ -103,8 +103,8 @@ thing that answers that: attention, reverence, standing.
 > **Each of the three inner chapters is player-only and route-specific.** In the
 > main game the player follows Seoyun and knows only what she knows. One route
 > turns the camera on someone who *knows* what she is (Irene), one on someone
-> who *knows and is already her enemy* (the duke), one on someone who *knows
-> nothing and is in love with her* (the prince).
+> who *knows and is already her enemy* (Ciel), one on someone who *knows
+> nothing and is in love with her* (Jace).
 >
 > **Three structural spines, running in parallel.**
 >
@@ -126,11 +126,11 @@ thing that answers that: attention, reverence, standing.
 > **The three kinds of route, and the one thing they share.**
 >
 > - **Irene** — a prophet who knows the ending and cannot speak it.
-> - **The duke** — a man who remembers being betrayed by her, and is proven right.
-> - **The prince** — a man who knows nothing, believes everything, and has to
->   choose between his love and his duty.
+> - **Ciel** — a man who remembers being betrayed by her, and is proven right.
+> - **Jace** — a man who knows nothing, believes everything, and has to choose
+>   between his love and his duty.
 >
-> **Only the prince's route is one Seoyun wins the person on.** And it is the
+> **Only Jace's route is one Seoyun wins the person on.** And it is the
 > only route where the person she wins is the one who ends up having to **kill
 > her.** The other two ask what she gets away with. This one asks whether
 > someone who loves her will do it, and that is the only version of the ending
@@ -146,9 +146,9 @@ them can have is the same thing. Set against each other these are the routes.
 | Character | Wants | Because | Knows about the loop? |
 |---|---|---|---|
 | **Seoyun** | **S+ rank**, at the cost of the kingdom | The moment she felt smallest and abandoned | Only that she is climbing. Not that there is a loop |
-| **Irene** | **To escape the life she remembers** — where Seoyun outshone her and the duke neglected her | She was assigned to be his back-up, and was never the first choice | **Yes. Fully.** She has seen the ending |
-| **The duke** | **To save the kingdom** | It is his country and he is its soldier | **Yes.** He was promised Korea, given Korea, and used |
-| **The prince** | **To save the kingdom** | Same country, and he is meant to inherit it | **No.** He has no past life and no information |
+| **Irene** | **To escape the life she remembers** — where Seoyun outshone her and Ciel neglected her | She was assigned to be his back-up, and was never the first choice | **Yes. Fully.** She has seen the ending |
+| **Ciel** | **To save the kingdom** | It is his country and he is its soldier | **Yes.** He was promised Korea, given Korea, and used |
+| **Jace** | **To save the kingdom** | Same country, and he is meant to inherit it | **No.** He has no past life and no information |
 
 The asymmetry in the last column is the whole design. **Three of the four
 characters want to stop what Seoyun is about to do, and she is the only one who
@@ -170,7 +170,7 @@ game and it is worth being precise about.
 **The setup.** Seoyun has been at the Temple — the beautiful, cold, closely
 supervised cage — where she learns their religion, serves as a role model, and
 blesses the people who need it. Then she **leaves it for a debutante ball at the
-imperial palace**, which **the prince hosted in order to introduce her to the
+imperial palace**, which **Jace hosted in order to introduce her to the
 populace.** This is her one unobserved night, sanctioned by the temple, in the
 one room in the kingdom where nobody is watching her.
 
@@ -179,33 +179,33 @@ choice is a movement, not a conversation:
 
 | The player… | Gets | Because |
 |---|---|---|
-| **Follows the prince to dance** | **The prince's route** | She chooses the warmth, the attention, and the person who loves her |
+| **Follows Jace to dance** | **Jace's route** | She chooses the warmth, the attention, and the person who loves her |
 | **Approaches Baroness Closhe to chat** | **Irene's route** | She chooses the one person who might be useful, or might know her |
-| **Stands alone at the banquet table for a while** | **The duke's route** | She chooses nobody |
+| **Stands alone at the banquet table for a while** | **Ciel's route** | She chooses nobody |
 
 **Three social moves, and they map exactly onto the three things she wants.**
 The dance is intimacy, the conversation is information, and standing alone is
 autonomy. The player is picking a relationship to power without being told any of
 that is what they are doing.
 
-#### Why standing alone gives the duke
+#### Why standing alone gives Ciel
 
 This is the one that is easy to get wrong, and it is the best of the three.
 
-The duke is **away on his mission**, so he is not at the ball. The player does
-not approach him, cannot approach him, and does not know yet that he exists as
-anything other than a name. **The duke's route is the one the player arrives at by
+Ciel is **away on his mission**, so he is not at the ball. The player does not
+approach him, cannot approach him, and does not know yet that he exists as
+anything other than a name. **Ciel's route is the one the player arrives at by
 declining both of the people who are there.**
 
 That is thematically exact. The woman who has already promised a kingdom mages
-and brought monsters, and who promised a duke Korea and kept him, chooses the
-one thing nobody offered her: **to be left alone with the ability to act.** Her
-drive has been stated as a preference for exactly this — freedom, safety, power,
-none of which is on offer anywhere — and the route where she is most herself is
-the one about the man she betrayed worst.
+and brought monsters, and who promised Ciel Korea and kept him, chooses the one
+thing nobody offered her: **to be left alone with the ability to act.** Her drive
+has been stated as a preference for exactly this — freedom, safety, power, none
+of which is on offer anywhere — and the route where she is most herself is the
+one about the man she betrayed worst.
 
 **The player should not be able to connect the two on first playthrough.** The
-duke's absence is a scheduling fact. The resonance only appears afterwards, and
+Ciel's absence is a scheduling fact. The resonance only appears afterwards, and
 it is the reason the branch cannot be labelled for what it is.
 
 #### Why this split is better than a menu
@@ -218,9 +218,9 @@ it is the reason the branch cannot be labelled for what it is.
 - **It puts the route choice in the one room where Seoyun is unsupervised**, so
   the split is the first time the player sees her behave according to her own
   logic rather than the mask's. Chapter 1 and 2 are the mask; the ball is her.
-- **The prince hosting the ball is load-bearing.** He is the one who put the
-  saintess in front of his people, and one of the options is to go with him into
-  it. She spends an evening he arranged on his own wishes — which is also, not
+- **Jace hosting the ball is load-bearing.** He is the one who put the saintess
+  in front of his people, and one of the options is to go with him into it. She
+  spends an evening he arranged on his own wishes — which is also, not
   coincidentally, the evening she walks away from a kingdom of people who came
   out for her.
 
@@ -231,7 +231,7 @@ it is the reason the branch cannot be labelled for what it is.
   options open, the branch reads as strategy rather than temperament. If she
   simply prefers solitude, it reads as character. Both are defensible; they are
   different women.
-- **Is the duke's branch available to a player who has not noticed the duke?**
+- **Is Ciel's branch available to a player who has not noticed him?**
   It has to be, or it is not a choice. But the player is making it without
   knowing what they are picking, which is the point and also a risk.
 - **What if the player refuses to choose?** Not currently designed. A fourth
@@ -244,14 +244,14 @@ it is the reason the branch cannot be labelled for what it is.
 | Route | POV | What the player knows | What it costs the player |
 |---|---|---|---|
 | **Irene** | Hers | The ending, in advance, unusable | The knowledge that they could not spend |
-| **The duke** | His | That she has done this before | Watching her do it again, to a man who is ready |
-| **The prince** | His | Nothing, until it happens | **Having to watch the person they wanted choose, and then not choose them** |
+| **Ciel** | His | That she has done this before | Watching her do it again, to a man who is ready |
+| **Jace** | His | Nothing, until it happens | **Having to watch the person they wanted choose, and then not choose them** |
 
-**The prince's route is the only one where Seoyun gets what she came for and it
-still ends badly.** She is loved. She is believed. She is the saintess, in a
-palace, with a prince who would give her anything — and the cost of all of it is
-that **the man who loves her is the one who has to stop her.** The other two
-routes are about exposure. This one is about a choice somebody has to make.
+**Jace's route is the only one where Seoyun gets what she came for and it still
+ends badly.** She is loved. She is believed. She is the saintess, in a palace,
+with a prince who would give her anything — and the cost of all of it is that
+**the man who loves her is the one who has to stop her.** The other two routes
+are about exposure. This one is about a choice somebody has to make.
 
 ### Chapter 1 — *Seoyun*
 
@@ -289,7 +289,7 @@ give up.
 - **Setting:** The kingdom. High fantasy, everyday magic, small. No monsters,
   because monsters live in the between and nothing has ever been opened onto it.
 - **Cast:** Seoyun. Kingdom people — whoever finds her. No named supporting cast;
-  the prince, the duke and the baroness all arrive in chapter 2.
+  Jace, Ciel and the baroness all arrive in chapter 2.
 - **Beats:**
   - She lands, disoriented, in a place that looks like the novel-world she fell
     out of. She is alive, which she did not plan on.
@@ -331,8 +331,8 @@ split.** The only shared chapter, and the one that has to do the most.
 
 - **Setting:** The **Temple** — beautiful, cold, closely supervised, and her
   life — then the **imperial palace**, for the debutante ball.
-- **Cast:** Seoyun, the **crown prince**, **Baroness Irene de Closhe**, the
-  Temple priests, and the court. **The duke is absent**, on his mission.
+- **Cast:** Seoyun, **Jace Helio Stern**, **Baroness Irene de Closhe**, the
+  Temple priests, and the court. **Ciel is absent**, on his mission.
 - **Beats:**
   - **The Temple takes custody of her.** She learns their religion, serves as a
     role model, and blesses those who need it. The priests are on her
@@ -341,21 +341,21 @@ split.** The only shared chapter, and the one that has to do the most.
   - **The prince has hosted a ball to introduce her to the populace.** He put
     the saintess in front of his people, in the one room where nobody watches
     her. She is granted the evening by the Temple, which does not follow her.
-  - **The prince.** Polite, typically blonde and blue-eyed, intelligent, and a
-    great swordsman. He **dotes on her more than strictly professionally**, and
-    he began falling before she had decided anything — so she is the only one
-    who knows what she is doing while he is already in love.
+  - **Jace.** Polite, typically blonde and blue-eyed, intelligent, and a great
+    swordsman. He **dotes on her more than strictly professionally**, and he
+    began falling before she had decided anything — so she is the only one who
+    knows what she is doing while he is already in love.
   - **Baroness Closhe.** Kind and thoughtful, of the merchant family, and
-    **widely expected to marry the duke — a man she has declined repeatedly, for
+    **widely expected to marry Ciel — a man she has declined repeatedly, for
     reasons nobody knows.** In the main game she is a wary side character and
     gives nothing away.
-  - **The duke is discussed, not seen.** The most noble man in the kingdom after
-    the prince, away fighting the wave she brought. **Nobody in the kingdom
-    connects the monsters to the woman who arrived the same week.**
+  - **Ciel is discussed, not seen.** The most noble man in the kingdom after
+    Jace, away fighting the wave she brought. **Nobody in the kingdom connects
+    the monsters to the woman who arrived the same week.**
 - **Turn:** She is installed, contained, and courted, and then given one evening
   in the one room where she is unsupervised — and the player spends it.
-- **The split:** at the ball, the player chooses. Dance with the prince, approach
-  the baroness, or stand alone at the banquet table. See
+- **The split:** at the ball, the player chooses. Dance with Jace, approach the
+  baroness, or stand alone at the banquet table. See
   [the route split](#the-route-split-end-of-chapter-2) above.
 - **Note:** The ambivalence here is **morally neutral** and should read that
   way. She wants freedom, safety, and power, and none of the three is on offer
@@ -379,13 +379,17 @@ it is worth being precise about what it does and what it costs.
 
 - In the **main game**, Irene is a **side character who seems strangely wary of
   Seoyun**, and is otherwise unremarkable. She is kind, thoughtful, a merchant's
-  daughter, the duke's repeatedly-refused fiancée. That is all the player gets.
+  daughter, Ciel's repeatedly-refused fiancée. That is all the player gets.
   She does not reveal anything, and the wariness reads as a character note
   rather than a mystery — a woman who keeps her distance from the saintess.
 - In **Irene's route**, the same chapter plays from **her** perspective. Meeting
   Seoyun causes her to **recall her meeting with Seoyun in her past life**, and
   **the player sees that recall and nothing else.** Seoyun, from the outside,
   looks unremarkable to her again.
+- **Ciel's route** has the same shape with the opposite valence: he is a
+  rememberer, so his POV gives the player his version of the past life, in which
+  she is not a prophet's memory but **the woman who betrayed him personally.**
+  Nothing supernatural about his knowledge — it is just that he was there.
 
 #### The asymmetry, and why it is the right choice
 
@@ -434,9 +438,10 @@ truth that the protagonist cannot hear.
   In three routes she is a wary side character; in one she is carrying the
   apocalypse alone and has been for a long time. The writing has to be good
   enough to survive both.
-- **It makes the routes structurally uneven.** The other three cannot have this,
-  because the loop only touches Irene. Worth accepting rather than trying to
-  build equivalents for the prince and the duke.
+- **It makes the routes structurally uneven.** Ciel's chapter has a different
+  problem: he is a rememberer too, so his POV route carries a version of the
+  same payload. Worth accepting the unevenness rather than building exact
+  equivalents.
 
 ### Chapter 4 — *The First Trip Back*
 
@@ -480,8 +485,8 @@ happens next** — the plot continues either way, and neither choice is reversib
 depends on a reveal only the player has. Outline only; beats not written.
 
 - **Setting:** The kingdom. The wave has arrived.
-- **Cast:** Seoyun, the crown prince, Baroness Closhe, the Temple, and the
-  kingdom's people. The duke's absence is now conspicuous.
+- **Cast:** Seoyun, **Jace**, Baroness Closhe, the Temple, and the kingdom's
+  people. Ciel's absence is now conspicuous.
 - **Beats, in order:**
   1. **The consequences.** The monster wave she released in chapter 4 arrives,
      and it is a catastrophe. This is the cost of chapter 4, arriving on a delay
@@ -526,10 +531,10 @@ Because this is player-only, the main game never contains it. That means:
 - **The monster wave is a symptom, not the disaster.** The wave is what chapter
   4 cost. The cinders are what the rest of the game costs. A player who mistakes
   the wave for the ending has not understood the shape.
-- **Irene's refusal of the duke resolves.** She declined a man who was about to
+- **Irene's refusal of Ciel resolves.** She declined a man who was about to
   fight a war that ends in cinders, because she remembered how it finished. The
-  story's cruelest question is whether she ever tells the prince, or lets him
-  walk into a future she has already watched once.
+  story's cruelest question is whether she ever tells Jace, or lets him walk
+  into a future she has already watched once.
 
 #### Open questions
 
@@ -556,15 +561,15 @@ Provisional, and worth revisiting once the route structure is decided.
 |---|---|---|---|
 | **The mask** | Ch1 Act 2 | All | How long can she be worshipped as something she isn't? |
 | **The cage** | Ch2 | All | The Temple is beautiful, cold, and watched. When does she need to get out? |
-| **The prince** | Ch2 | Prince | What does she owe someone who loves a role she is playing? |
-| **Irene's refusal** | Ch2 | All, as a character note | Why has she declined the duke? |
+| **Jace** | Ch2 | **Jace** | What does she owe someone who loves a role she is playing? |
+| **Irene's refusal** | Ch2 | All, as a character note | Why has she declined Ciel? |
 | **The door** | Ch4 | All | How many breaches before someone counts them? |
 | **Korea** | Ch4 | All | Will the alliance find her, and what happens when they do? |
 | **The two accounts** | Ch3 | **Irene** | Whose Seoyun is real — hers, or the one Irene knew? |
 | **The wave** | Ch5 | **Irene** | What the chapter 4 crossing actually cost. |
 | **The loop** | Ch5 | **Irene** | The player has known since chapter 3. Does it have to close? |
 | **Irene's burden** | Ch3 onward | **Irene** | She has seen the ending. Why has she never said so? |
-| **The duke's return** | Ch4 or 5 | All | The most noble man in the kingdom comes home from fighting a war he does not know is already lost. |
+| **Ciel's return** | Ch4 or 5 | All | The most noble man in the kingdom comes home from fighting a war he does not know is already lost. |
 | **The cinders** | Late | **Irene** | S+ rank, an uninhabitable kingdom, and a return to Korea. Can the loop be broken? |
 
 The Temple and the palace are worth treating as an arc rather than a backdrop,
@@ -575,7 +580,7 @@ observed, and most observed precisely where she is least free. That contradictio
 does a lot of work quietly, and it is the setting's version of her character.
 
 **Irene de Closhe is the fourth power in the room.** The crown, the Temple, and
-the duke's line run this kingdom, and all three of them are about to be defined
+Ciel's line run this kingdom, and all three of them are about to be defined
 by fighting. The Closhe family is the one that supplies and pays for it, which
 means it is the only one that sees the cost coming in the ledgers. She is the
 character who can read the situation from outside the machine, and she is

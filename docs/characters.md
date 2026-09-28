@@ -13,7 +13,7 @@ scaffolds.
 | **Origin** | Alternate modern Korea (low fantasy / high-tech sci-fi) |
 | **Occupation** | Battle medic, healing magic, ordinary rank |
 | **Ability** | Healing magic; cannot fight; opens portals via her phone |
-| **Rank** | Unremarkable (scale runs S, A, B, C, D, E, F) |
+| **Rank** | C (scale runs S, A, B, C, D, E, F) |
 | **Player-facing role** | Saintess, emissary of god, the kingdom's only healer |
 | **True nature** | **Evil protagonist, disguised as a saintess** |
 | **Drive** | To be the most powerful woman in the world, compensating for how small and abandoned she felt |
@@ -22,7 +22,7 @@ scaffolds.
 
 ### The origin wound
 
-She was an **ordinary battle medic** — not C-class, unremarkable, the person
+She was an **ordinary battle medic** — C-class, unremarkable, the person
 present and not in the way. She heals because healing is what she is for. She
 does not fight, does not stand out, and is not looked at twice.
 
@@ -101,14 +101,15 @@ route's endgame.
 
 ---
 
-## The crown prince
+## Jace Helio Stern, the crown prince
 
 **Heir to the throne. Seoyun's first route.**
 
 | | |
 |---|---|
-| **Name** | *TBD* |
+| **Name** | **Jace Helio Stern** |
 | **Role** | Crown prince, heir to the throne |
+| **House** | Stern |
 | **Appearance** | Typically blonde-haired, blue-eyed |
 | **Manner** | Polite |
 | **Ability** | A great swordsman |
@@ -179,26 +180,26 @@ him the one who has to decide.**
   woman he loved, or a man who loved her enough to be prepared. The first is
   tragic; the second is almost worse.
 - **Does Seoyun know what she is walking into?** She is the only one who does
-  not know the loop is coming, but the prince is the only one who could kill her.
+  not know the loop is coming, but Jace is the only one who could kill her.
   Whether she ever considers that he is heir to a throne that commands a great
   swordsman is a question worth asking, given how deliberate the rest of her
   planning is.
-- **Is the route winnable?** If the loop can be broken, the prince's route is
+- **Is the route winnable?** If the loop can be broken, Jace's route is
   the one where the player might break it — not because anyone told them, but
   because they are watching it happen to a good man.
 
 ---
 
-## The duke
+## Ciel, the duke
 
-**The crown prince's cousin. The second POV. The only one who is already her
-enemy.**
+**Jace's cousin. The second POV. The only one who is already her enemy.**
 
 | | |
 |---|---|
-| **Name** | *TBD* |
+| **Name** | **Ciel** |
 | **Role** | Duke, the crown prince's cousin |
-| **Standing** | **The most noble man in the kingdom after the prince** |
+| **Relation to Jace** | **Cousin** |
+| **Standing** | **The most noble man in the kingdom after Jace** |
 | **Status** | Away on a mission, then **POV protagonist in his own route** |
 | **On that mission** | Fighting back the monster wave Seoyun's arrival brought |
 | **Drive** | **To save the kingdom** |
@@ -220,7 +221,7 @@ him exactly as she has now.** He remembers her, and what he remembers is this:
    she was going to be the one beside him.
 
 **The fourth beat is the one that indicts her, and it is not about betrayal at
-all.** Irene's past self had **better magical compatibility with the duke than
+all.** Irene's past self had **better magical compatibility with Ciel than
 Seoyun did, despite having far less magical power overall** — and was therefore
 **assigned as his back-up instead.** So the woman Seoyun had displaced was
 already beside him, and Seoyun was not.
@@ -233,7 +234,7 @@ promised Seoyun and got a back-up with better compatibility and less power. He
 knows what she does with people who trust her, because he is one.
 
 **The player meets the consequences of her actions before they meet the man
-fighting them**, and now the reason is sharper: the duke is away fighting the
+fighting them**, and now the reason is sharper: Ciel is away fighting the
 monsters *she* brought, and when he comes back he is a man who has already been
 her victim once.
 
@@ -258,7 +259,7 @@ mystery in it at all.
 
 ## Irene de Closhe
 
-**Noblewoman of the Closhe domain. Not the duke's. A second protagonist — but
+**Noblewoman of the Closhe domain. Not Ciel's. A second protagonist — but
 only in her own route.**
 
 | | |
@@ -267,28 +268,28 @@ only in her own route.**
 | **House** | Closhe |
 | **Role** | Noblewoman; her family runs the **Closhe merchants** |
 | **Reputation** | **Kind and thoughtful** — widely believed |
-| **Standing with the duke** | **His preferred choice of fiancée** |
+| **Standing with Ciel** | **His preferred choice of fiancée** |
 | **His proposals** | **She has declined them. Repeatedly. For reasons unknown.** |
 | **How the player meets her** | **A side character who seems strangely wary of Seoyun, and is otherwise unremarkable** |
 | **Origin** | **Reincarnation of someone who lived in modern Korea** — Irene's route, chapter 3 |
 | **Her past life** | **A medic**, like Seoyun's former self, and never the first choice |
-| **Her drive** | **To escape the life she remembers** — outshone by Seoyun, neglected by the duke |
+| **Her drive** | **To escape the life she remembers** — outshone by Seoyun, neglected by Ciel |
 | **What she remembers of Seoyun** | **The most powerful healer in the country, with status and wealth surpassed by no one** |
 | **What that Seoyun becomes** | **S+ rank. She decimates the kingdom to uninhabitable cinders, then returns to modern Korea.** |
 | **When the player learns this** | Chapter 3, and the full shape of it in chapter 5 |
 
 **The wariness is the only tell the main game gets.** In every route but hers,
 Irene keeps her distance from the saintess and gives no reason, and the player
-is not invited to wonder. She is kind, she is thoughtful, she is the duke's
+is not invited to wonder. She is kind, she is thoughtful, she is Ciel's
 refused fiancée, and that is a complete character. In her route she becomes the
 person who has already watched this story finish.
 
 ### The reveal (chapter 3, Irene's route only)
 
-**None of this reaches the player in any other route.** In the prince route, the
+**None of this reaches the player in any other route.** In Jace's route, the
 duke route, and any route that is not hers, Irene is a **side character who
 seems strangely wary of Seoyun and is otherwise unremarkable** — kind,
-thoughtful, the duke's repeatedly-refused fiancée, a merchant's daughter who
+thoughtful, Ciel's repeatedly-refused fiancée, a merchant's daughter who
 keeps her distance from the saintess. The wariness reads as a manner, not a
 mystery. She reveals nothing, and the player is given no reason to ask.
 
@@ -358,7 +359,7 @@ present tense the whole time.
 ### What it changes
 
 Irene is a **peer from a previous life**, which is a relationship the rest of the
-cast cannot have. She is not competing with Seoyun for the prince and not
+cast cannot have. She is not competing with Seoyun for Jace and not
 in awe of the saintess — she is the one person who has already met who Seoyun
 is becoming, and did not like the ending.
 
@@ -371,20 +372,20 @@ That cuts two ways, and both should be playable:
   castle is also the most dangerous witness.**
 
 **Her drive, precisely.** She is **trying to escape the life she remembers** — the
-life in which **Seoyun outshone her** and **the duke neglected her**. She was
-never the first choice. She had better compatibility with the duke and less
+life in which **Seoyun outshone her** and **Ciel neglected her**. She was
+never the first choice. She had better compatibility with Ciel and less
 power, and she was made the back-up, and then the back-up was the whole of what
 she got. Her route is not the story of a woman trying to save the kingdom. It is
 the story of a woman trying to not be the second choice again.
 
-**This reframes her refusal of the duke.** She declined him repeatedly, and the
+**This reframes her refusal of Ciel.** She declined him repeatedly, and the
 reason is now legible from inside: **she does not want the arrangement Seoyun
 wanted and lost, and she does not want the man who did not notice she was
 there.** She is running from a life in which she was adjacent to a partnership
 and adjacent to nothing else.
 
-**Her refusal of the prince is the cruel version.** She is the only one who
-knows, and the prince is in love with Seoyun and wants to save his kingdom, and
+**Her refusal of Jace is the cruel version.** She is the only one who
+knows, and Jace is in love with Seoyun and wants to save his kingdom, and
 Irene is the person who has watched this end before. The story's cruelest
 question for her is whether she ever tells him, or lets him walk into it
 knowing what she knows.
@@ -396,7 +397,7 @@ the game for the player to want to talk to her honestly — and it is exactly th
 conversation the mask makes hardest.
 
 **She is a merchant's daughter in a world run by soldiers and priests.** The
-kingdom's power sits with the crown, the Temple, and the duke's line. Irene
+kingdom's power sits with the crown, the Temple, and Ciel's line. Irene
 represents the fourth thing — trade — which is the one that actually pays for
 all of it. A family with money and no swords is a permanent minority position in
 a kingdom that has just met its first monsters and is about to need soldiers
@@ -441,29 +442,25 @@ someone who had already watched the outcome.
 
 ## Cast scaffolds
 
-### Love interests
+### Routes
 
-> Three are sketched. The two men are defined by their relationship to the
-> mask: one loves her, one is owed the truth. A third would need a different
-> relationship to it again.
+> Three, all POV-swapped, all defined by what the player knows and what the
+> protagonist does not.
 
 | # | Name | Role | Knows? |
 |---|---|---|---|
-| 1 | Crown prince | Heir; in love with her; **no information at all** | No — and would believe her |
-| 2 | Duke | Her cousin; **already her enemy**; remembers being betrayed | Yes, and hostile |
+| 1 | **Jace Helio Stern** | Crown prince; in love with her; **no information at all** | No — and would believe her |
+| 2 | **Ciel** | Duke, his cousin; **already her enemy**; remembers being betrayed | Yes, and hostile |
 | 3 | Irene de Closhe | Reincarnated peer; **escaping the life she remembers** | Yes, and carrying it alone |
 
-**On Irene as a route.** She is defined, unlike a blank third slot, and a
-merchant-noblewoman in a story about a fraud saintess has real material. But if
-she is a route she is a route for a protagonist who does not want love at all,
-so the route has to answer a different question than the others: not *what does
-she become for the person who loves her*, but *what does she do when someone
-sees her clearly and does not look away*. That is a harder and more interesting
-route, and it is the one that most directly threatens the mask.
+**On Irene as a route.** She is a route, and it has to answer a different
+question than the other two: not *what does she become for the person who loves
+her*, but *what does she do when someone sees her clearly and does not look
+away*. That is harder, and it is the route that most directly threatens the
+mask.
 
-If she is not a route, she is the best supporting character in the cast: the
-person who knows the duke properly, who can hold his side of the story, and who
-has no reason to lie to Seoyun.
+She is also the player in the middle of a hole: Irene knows the ending, and
+Seoyun is the only person who could act on it and cannot hear it.
 
 ### Secondary
 
