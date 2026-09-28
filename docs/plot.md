@@ -115,6 +115,9 @@ the player complicit before it makes them sympathetic.
 - **Setting:** The kingdom. High fantasy, everyday magic, small. No monsters,
   because monsters live in the between and nothing has ever been opened onto it.
 - **Cast:** Seoyun. Kingdom people — whoever finds her.
+- **Setting:** The kingdom — the **Temple** first, then the **imperial palace**.
+- **Cast:** Seoyun. The **crown prince**. Temple priests. The duke is absent, on
+  his mission.
 - **Beats:**
   - She lands, disoriented, in a place that looks like the novel-world she fell
     out of. She is alive, which she did not plan on.
@@ -122,19 +125,44 @@ the player complicit before it makes them sympathetic.
     rather than conscripted, and it should land on her before she has time to
     think about it.
   - **The miracle.** With no mages of healing here to compare against, a single
-    C-grade medic reads as a marvel. The kingdom concludes she is a saintess
+    ordinary medic reads as a marvel. The kingdom concludes she is a saintess
     sent by god to deliver them.
-- **Turn:** She arrives with nothing and is immediately given everything she
-  did not ask for.
-- **Note:** This is the game's thesis in one scene. The player is handed the
-  mask before they have any reason to put it on, which is the point — the
-  kingdom gives her sainthood, and she is the only one who treats it as a tool.
+  - **The Temple takes custody of her.** Beautiful, cold, and structured around
+    the one thing she can do. She is to learn their religion, be a role model to
+    the people, and bless those who need it. The priests are on her constantly.
+    This is her life now, and it is a cage with excellent architecture.
+  - **The palace, on temple business.** Her rare trip out, on the condition that
+    she meet the crown prince. Without the priests she is **more free than she has
+    been since she arrived**, and the prince is **polite, handsome, blonde,
+    blue-eyed, intelligent, and a great swordsman** — and he treats her like a
+    person rather than an office.
+  - **He begins to fall in love with her, quickly.** He dotes on her more than
+    strictly professionally, and she feels she **might even fall in love.**
+  - **The duke is discussed, not seen.** He is the most noble man in the kingdom
+    after the prince, and he is away on a mission. If the kingdom mentions why,
+    it is as an absence, not a problem — nobody here connects the monsters to
+    the woman who arrived in the same week.
+- **Turn:** She arrives with nothing, is given everything she did not ask for,
+  and finds in one of the people giving it to her a reason to hesitate.
+- **Note:** This is the game's thesis in one act. The player is handed the mask
+  before they have any reason to put it on — the kingdom gives her sainthood, and
+  she is the only one who treats it as a tool. The prince is then placed in the
+  same act so that the ambivalence is established *before* the first crossing.
+  That ordering is deliberate: **Act 3 only lands if the player already has
+  something she might lose.** If she crosses with nothing to weigh, she is just
+  a woman being greedy, and the chapter's ending has no teeth.
+
+  The ambivalence here is **morally neutral** and should read that way. She
+  wants freedom, safety, and power, and none of the three is on offer. She is not
+  planning to betray anyone. She has a preference for being left alone with the
+  ability to act, and the story's job is to keep that preference looking
+  reasonable until it isn't.
 
 #### Act 3 — The first crossing (the choice)
 
 - **Setting:** The kingdom, and one deliberate trip back to Korea.
-- **Cast:** Seoyun alone. This is the beat where the player does something the
-  player cannot take back.
+- **Cast:** Seoyun, alone — and whoever is waiting when she comes back. This is
+  the beat where the player does something the player cannot take back.
 - **Beats:**
   - She works out what the phone is. Not a rescue, not a one-way fall — a
     **door she controls**, in both directions.
@@ -146,6 +174,14 @@ the player complicit before it makes them sympathetic.
   - She has the information she needs to stop. She chooses not to.
 - **Turn:** This is where the protagonist is made. Not when she wanted power —
   when she learned the price and kept going.
+- **Note on what she is choosing between.** The chapter has just given her a
+  reason to hesitate — the prince, the one warm unobserved room in a cold
+  kingdom — and the crossing is how she sets that aside. She does not decide he
+  is not worth it. She decides he is worth exactly as much as being able to
+  leave, and being able to leave is worth more. **The first crossing should be
+  the moment the ambivalence resolves into something colder**, and the prince
+  should not be present for it, so that the player is not given a scene in which
+  to feel sorry for her.
 - **Choices / Endings touched:** First and smallest. See below.
 
 #### The chapter's choice
@@ -167,21 +203,28 @@ that neither choice is reversible.
 
 - **Do not make her sympathetic yet.** She is ordinary, unremarkable, and left
   to die. That is sympathy, and spending it in Act 1 makes Act 3 meaningless.
-- **Do not show a love interest yet.** The saintess is the only thing she wants
-  from the kingdom, and the routes are about what that costs. Introducing
-  attachment here complicates the thesis.
+  The prince's attention is *not* a substitute for it — he loves a role she is
+  performing, which is a sharper instrument than pity, not a softer one.
+- **Do not resolve the love interest.** The prince may begin to fall, and she may
+  notice, and that is the ceiling for chapter 1. Do not let either of them
+  *complete* anything. His love should be the thing she is about to trade away,
+  and the player should be able to feel the weight of it before she does.
 - **Do not let the kingdom learn what she is.** That belongs to a later chapter
-  (see the discovery ordering in [setting.md](setting.md)).
+  (see the discovery ordering in [setting.md](setting.md)). The duke's absence
+  in chapter 1 is what protects this: the one man with evidence is in the field.
 - **Do not have her heal someone and then do something monstrous to them.** The
   mask is structural, not a betrayal of a specific person, in chapter 1.
+- **Do not show the duke.** Referenced, not present. His entrance is a later
+  chapter's beat.
 
 ### Chapter 2 — *TBD*
 
 Not written. The natural hand-off is the kingdom's first monster encounter, with
 Seoyun as the only healer in a world that does not know what it is fighting.
 
-- **Setting:** The kingdom.
-- **Cast:** Seoyun. Love interests, if chapter 1 ended with routes opening.
+- **Setting:** The kingdom, and the Temple under pressure.
+- **Cast:** Seoyun, the crown prince, the Temple priests. The duke is still
+  away — or is he?
 - **Turn:**
 - **Choices / Endings touched:**
 
@@ -199,9 +242,18 @@ Provisional, and worth revisiting once the route structure is decided.
 |---|---|---|
 | **The mask** | Ch1 Act 2 | How long can she be worshipped as something she isn't? |
 | **The door** | Ch1 Act 3 | How many breaches before someone counts them? |
+| **The cage** | Ch1 Act 2 | The Temple is beautiful, cold, and watched. When does she need to get out? |
+| **The prince** | Ch1 Act 2 | What does she owe someone who loves a role she is playing? |
+| **The duke's return** | Ch2+ | The most noble man in the kingdom comes home from fighting her monsters. |
 | **Korea** | Ch2 or 3 | Will the alliance find her, and what happens when they do? |
-| **The routes** | Ch3+ | What does she become for each person who loves the saint? |
 | **The reckoning** | Late | Does she ever close the door, and who is left outside it? |
+
+The Temple and the palace are worth treating as an arc rather than a backdrop,
+because they are the two halves of her problem. The **Temple** is the cage she
+lives in; the **palace** is the only door out of it; and both are staffed by
+people who believe in her. She is most free precisely where she is most
+observed, and most observed precisely where she is least free. That contradiction
+does a lot of work quietly, and it is the setting's version of her character.
 
 ---
 

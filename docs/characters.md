@@ -101,25 +101,106 @@ route's endgame.
 
 ---
 
+## The crown prince
+
+**Heir to the throne. Seoyun's first route.**
+
+| | |
+|---|---|
+| **Name** | *TBD* |
+| **Role** | Crown prince, heir to the throne |
+| **Appearance** | Typically blonde-haired, blue-eyed |
+| **Manner** | Polite |
+| **Ability** | A great swordsman |
+| **Intelligence** | Intelligent |
+| **Status** | In the kingdom — the one nobleman not away fighting |
+| **Falls in love with** | Seoyun, **quickly** |
+
+He is the good man at the centre of the kingdom's response to a problem she
+caused, and he is in love with the person who caused it.
+
+**He is also the reason her ambivalence has a shape.** The palace is the only
+place she is unobserved, and he is the only person there who treats her as a
+person rather than an office. His attention is warmth she did not earn and cannot
+refuse without losing the position she is using. He **dotes on her more than
+strictly professionally**, and she can feel that she **might even fall in love**.
+
+That is the complication. Not that he threatens her plan, but that **her plan is
+starting to cost something she would rather not pay.** A woman who wants freedom,
+safety, and power is easy to write. A woman offered love by the person she is
+deceiving is not.
+
+His quickness is load-bearing. He falls before she has decided anything, which
+means **she is the only one in the palace who knows what she is doing while he is
+already in love.** She is not deceiving a stranger. She is letting a good man
+believe something she knows to be false, and she keeps letting him.
+
+### Open question
+
+Does he ever learn? He is intelligent, which is a problem for the mask. A route
+where he works out that the saint is a fraud — or worse, that she is the reason
+monsters are coming — inverts the whole route. He is the natural plant for
+reader doubt, because the reader trusts him.
+
+---
+
+## The duke
+
+**The crown prince's cousin. The second love interest.**
+
+| | |
+|---|---|
+| **Name** | *TBD* |
+| **Role** | Duke, the crown prince's cousin |
+| **Standing** | **The most noble man in the kingdom after the prince** |
+| **Status** | **Away on a mission** |
+| **On that mission** | Fighting back the monster wave Seoyun's arrival brought |
+
+He is away for most of the story, fighting the direct consequences of Seoyun
+arriving, and **nobody in the kingdom knows she is the cause.**
+
+The structural joke is deliberate: the duke is the man whose entire current
+occupation is the evidence of her crime, and he is conveniently absent. **The
+player meets the consequences of her actions before they meet the man fighting
+them.**
+
+It also makes him the sharpest route in the game. He is a man of honour who has
+spent months in the field against something nobody could explain, and then he
+comes home and meets the person who could explain it and does not. **He has
+earned the right to the answer** in a way the prince has not.
+
+His return should be a major beat, not a cameo. When the most noble man in the
+kingdom walks into a court that has been worshipping a saintess, and he knows
+something about monsters that nobody else does, the mask has its worst possible
+audience.
+
+### Open question
+
+Does he suspect on sight, or work it out? A duke who figures it out alone,
+before anyone tells him, is a different and more dangerous story than one who is
+told.
+
+---
+
 ## Cast scaffolds
 
-### Love interests
+### Additional love interests
 
-> **TBD.** Not designed yet. Each needs a reason to be in a kingdom with no
-> monsters, no healing but Seoyun's, and a saintess who cannot be alone in a
-> room.
+> **TBD.** Seoyun needs a reason to be interested in anyone else. The current two
+> are a man who loves her and a man who is owed the truth; a third would need a
+> different relationship to the mask.
 
 | # | Name | Role | Knows? |
 |---|---|---|---|
-| 1 | *TBD* | | |
-| 2 | *TBD* | | |
+| 1 | Crown prince | Heir; in love with her | *TBD* |
+| 2 | Duke | Her cousin; away fighting her monsters | *TBD* |
 | 3 | *TBD* | | |
 
 ### Secondary
 
 | Name | Role | Notes |
 |---|---|---|
-| *TBD* | | |
+| *TBD* | | The priests of the Temple, who oversee her constantly |
 
 ### The magic alliance
 

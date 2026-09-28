@@ -68,6 +68,21 @@ abandoned, and the kingdom handed her the one thing that answers that — attent
 reverence, standing.** Being the saintess is not an unwanted interruption of her
 plans. It is the first rung of a ladder she is climbing on purpose.
 
+### The kingdom is small, and it is losing its duke
+
+Small enough that when Seoyun arrives, she is the only healing-type mage in it —
+and small enough that its second-nobleman is **already abroad fighting the thing
+she brought with her**.
+
+**The duke is away on a mission** against the monster wave that Seoyun's arrival
+released, a wave whose cause nobody in the kingdom knows. He is the most noble
+man in the kingdom after the crown prince, and he is holding a line against the
+direct consequences of her arrival — without any idea who is responsible.
+
+This is a standing irony the story can keep drawing on: **the absent duke is the
+one man whose work is the physical evidence of what she has done, and he is
+conspicuously not in the room for most of the game.** His return is a clock.
+
 ---
 
 ## The between
@@ -88,6 +103,67 @@ and no idea what that enemy is.
 
 The kingdom is not a place that has adapted to monsters. It is a place about to
 find out what monsters are — and Seoyun is the reason.
+
+---
+
+## The two settings of the kingdom
+
+The kingdom is not one setting. It is **two, with different rules, and Seoyun
+lives in the restrictive one.** The distinction matters because it is the
+structure that contains her: the Temple is where she is required to be and
+kept visible, and the palace is the only place she is unobserved.
+
+### The Temple
+
+**Where religious figures reside — including Seoyun.**
+
+A beautiful and cold place. She is expected to:
+
+- **Learn their religion**
+- **Serve as a role model to the people**
+- **Bless those who need it, with her magic**
+
+This is her daily life and her cage. She is the only person in the building
+capable of the one thing everyone there wants, and the building is built around
+that. The priests are on her constantly. Her comings and goings are governed.
+She has no privacy, no unsupervised time, and no way to use the phone without
+being noticed.
+
+The Temple is where the mask is worn by choice and maintained by others. She
+could be the saint all day here if she wanted to. The point is that being the
+saint is also **how she is prevented from being anything else**.
+
+### The Imperial Palace
+
+**Visited only occasionally, on temple business, chiefly to meet the crown
+prince.**
+
+- **Without the oversight of the priests, she is more free.** This is the only
+  time she is unobserved, and therefore the only time she could act.
+- The prince **dotes on her more than strictly professionally**, and she can feel
+  that she **might even fall in love**.
+
+The palace is the one place where Seoyun is treated as a person rather than an
+office. That is exactly why it is dangerous, and why she should want it.
+
+### The asymmetry between them
+
+| | The Temple | The palace |
+|---|---|---|
+| **Who is there** | Priests, religious figures, Seoyun | The prince, court, Seoyun |
+| **Her role** | Role model, blessing-giver, student | Honoured guest |
+| **Oversight** | Constant | **None** |
+| **How she is treated** | As an office | As a person |
+| **Can she use the phone** | Not without being seen | Possibly |
+| **What she feels** | Cold, watched | Wanted, and aware of it |
+
+The Temple is beautiful and cold. The palace is warm and it wants her. She is
+given the first and granted the second, and her ambivalence about both is the
+cleanest expression of her drive: **she wants freedom, safety, and power, and
+none of the three is on offer anywhere.** Her ambition here is morally neutral —
+not a plan to betray anyone, just a preference for being left alone with the
+ability to act. The story's job is to keep that preference looking reasonable
+for as long as possible, and then charge for it.
 
 ---
 
